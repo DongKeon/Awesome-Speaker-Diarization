@@ -29,7 +29,7 @@ If you discover any unnoticed documents, please open issues or pull requests (re
 - “Similarity Measurement of Segment-Level Speaker Embeddings in Speaker Diarization”, *IEEE/ACM TASLP,* 2023. (DKU) [[Paper](https://ieeexplore.ieee.org/document/9849033)]
 
 ## TS-VAD
-- **EDA-TS-VAD**: “Target Speaker Voice Activity Detection with Transformers and Its Integration with End-to-End Neural Diarization”, in **************Proc. ICASSP,************** 2023. (Microsoft) [[paper](https://arxiv.org/abs/2210.16127)]
+- **EDA-TS-VAD**: “Target Speaker Voice Activity Detection with Transformers and Its Integration with End-to-End Neural Diarization”, in *Proc. ICASSP*, 2023. (Microsoft) [[paper](https://arxiv.org/abs/2210.16127)]
 - **Seq2Seq-TS-VAD**: “Target-Speaker Voice Activity Detection via Sequence-to-Sequence Prediction”, in *Proc. ICASSP,* 2023. (DKU) [[paper](https://arxiv.org/abs/2210.16127)]
 - **AED-EEND**: “Attention-based Encoder-Decoder Network for End-to-End Neural Speaker Diarization with Target Speaker Attractor”, in *Proc. Interspeech,* 2023. (SJTU) [[paper](https://arxiv.org/abs/2305.10704)]
 
