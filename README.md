@@ -23,7 +23,7 @@ If you discover any unnoticed documents, please open issues or pull requests (re
 - **EEND-EDA-SpkAtt**: Towrards End-to-end Speaker Diarzation in the Wild, in *Proc. ICASSP,* 2023. [[Paper](https://arxiv.org/abs/2211.01299)]
 
 ## Clustering-based
-- “Analysis of Speaker Diarization Based on Bayesian HMM With Eigenvoice Priors”, *IEEE/ACM TASLP,* 2019. (BUT*)* [[Paper](https://ieeexplore.ieee.org/document/8910412)]
+- “Analysis of Speaker Diarization Based on Bayesian HMM With Eigenvoice Priors”, *IEEE/ACM TASLP,* 2019. (BUT) [[Paper](https://ieeexplore.ieee.org/document/8910412)]
 - **NME-SC**: “Auto-Tuning Spectral Clustering for Speaker Diarization Using Normalized Maximum Eigengap”, *IEEE SPL,* 2019. [[Paper](https://arxiv.org/abs/2003.02405)] [[Github](https://github.com/tango4j/Auto-Tuning-Spectral-Clustering)]
 - “Overlap-Aware Diarization: Resegmentation Using Neural End-to-End Overlapped Speech Detection” in *Proc. ICASSP*, 2020. [[Paper](https://ieeexplore.ieee.org/document/9053096)]
 - “Similarity Measurement of Segment-Level Speaker Embeddings in Speaker Diarization”, *IEEE/ACM TASLP,* 2023. (DKU) [[Paper](https://ieeexplore.ieee.org/document/9849033)]
