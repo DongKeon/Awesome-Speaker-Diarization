@@ -1,6 +1,7 @@
 # Awesome Speaker-Diarization [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 Some comprehensive papers about speaker diarization (SD).
+
 If you discover any unnoticed documents, please open issues or pull requests (recommended).
 
 ## Overview
@@ -34,10 +35,10 @@ If you discover any unnoticed documents, please open issues or pull requests (re
 
 ## Simulated Dataset
 
-- **Concat and Sum Approach**: “End-to-end neuarl speaker diarization with permuation-free objectives”, in *Proc. Interspeech,* 2019. [Paper]
-- **BUT Alogrithm:** “From simulated mixtures to simulated conversations as training data for end-to-end neural diarization” , in *Proc. Interspeech* 2022. (BUT) [Paper]
-- **Hitach Algorithm**: “Improving the naturalness of simulated conversations for end-to-end neural diarization”, in *Proc. Odyssey,* 2022. (Hitachi) **[Paper]
-- **EEND-EDA-SpkAtt:** Towrards End-to-end Speaker Diarzation in the Wild, in *Proc. ICASSP* 2023. [[Paper](https://arxiv.org/abs/2211.01299)]
+- **Concat and Sum Approach**: “End-to-end neuarl speaker diarization with permuation-free objectives”, in *Proc. Interspeech*, 2019. [Paper]
+- **BUT Alogrithm:** “From simulated mixtures to simulated conversations as training data for end-to-end neural diarization” , in *Proc. Interspeech*, 2022. (BUT) [Paper]
+- **Hitach Algorithm**: “Improving the naturalness of simulated conversations for end-to-end neural diarization”, in *Proc. Odyssey*, 2022. (Hitachi) [Paper]
+- **EEND-EDA-SpkAtt:** Towrards End-to-end Speaker Diarzation in the Wild, in *Proc. ICASSP*, 2023. [[Paper](https://arxiv.org/abs/2211.01299)]
 
 ## Self-suprvised
 - “Self-supervised Speaker Diarization”, in *Proc. Interspeech,* 2022. [[Paper](https://arxiv.org/abs/2204.04166)]
