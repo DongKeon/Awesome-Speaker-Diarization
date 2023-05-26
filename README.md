@@ -97,8 +97,11 @@ If you discover any unnoticed documents, please open issues or pull requests (re
 ## Measurement
 - **BER:** “Balanced Error Rate For Speaker Diarization”, in *Proc. arXiv:2211.04304,* 2022 [[Paper](https://arxiv.org/abs/2211.04304)] [[Code](https://github.com/X-LANCE/BER)]
 
-## Challenge
+# Multi-Modal
+## With NLP
+- "Exploring Speaker-Related Information in Spoken Language Understanding for Better Speaker Diarization", in *Proc. ACL", 2023. (Alibaba) [[Paper](https://arxiv.org/abs/2305.12927)]
 
+## Challenge
 ### 2022 VoxSRC Track4
 
 [[Paper](https://arxiv.org/abs/2302.10248)] [[Workshop](http://mm.kaist.ac.kr/datasets/voxceleb/voxsrc/interspeech2022.html)]
