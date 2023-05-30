@@ -104,8 +104,12 @@ If you discover any unnoticed documents, please open issues or pull requests (re
 - "Exploring Speaker-Related Information in Spoken Language Understanding for Better Speaker Diarization", in *Proc. ACL", 2023. (Alibaba) [[Paper](https://arxiv.org/abs/2305.12927)]
 
 ## Challenge
-### 2022 VoxSRC Track4
+### 2022 M2MeT (Multi-channel Multi-party Meeting Transcription Grand Challenge)
+[[Introduction Paper](https://arxiv.org/abs/2110.07393?spm=a3c0i.25445127.6257982940.1.111654811kxLMY&file=2110.07393)] [[Summary Paper](https://arxiv.org/abs/2202.03647?spm=a3c0i.25445127.6257982940.2.111654811kxLMY&file=2202.03647)] [[Dataset-AliMeeting](https://www.openslr.org/119)] [[Code](https://github.com/yufan-aslp/AliMeeting)]
+- 1st: **DKU** [[Paper](https://arxiv.org/abs/2202.02687)]
+- 2nd: **CUHK-TENCENT** [[Paper](https://arxiv.org/abs/2202.01986)]
 
+### 2022 VoxSRC Track4
 [[Paper](https://arxiv.org/abs/2302.10248)] [[Workshop](http://mm.kaist.ac.kr/datasets/voxceleb/voxsrc/interspeech2022.html)]
 
 - 1st: **DKU** [[Tech Report](https://arxiv.org/abs/2210.01677)] [[slide]](http://mm.kaist.ac.kr/datasets/voxceleb/voxsrc/data_workshop_2022/slides/DKU-DukeECE_slides.pdf) [[Video](http://mm.kaist.ac.kr/datasets/voxceleb/voxsrc/data_workshop_2022/videos/DKU-DukeECE_video.mp4)]
