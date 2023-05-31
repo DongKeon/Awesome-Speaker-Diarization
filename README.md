@@ -5,11 +5,9 @@ Some comprehensive papers about speaker diarization (SD).
 If you discover any unnoticed documents, please open issues or pull requests (recommended).
 
 ## Overview
-
 - **DIHARD Keynote Session:** The yellow brick road of diarization, challenges and other neural paths [[Slides]](https://dihardchallenge.github.io/dihard3workshop/slide/The%20yellow%20brick%20road%20of%20diarization,%20challenges%20and%20other%20neural%20paths.pdf) [[Video]](https://www.youtube.com/watch?v=_usbos-SJlg&list=PLK8w8IgaxTVrf1DBMajNytq87bZi183El&index=10)
 
 ## Reviews
-
 - “A review of speaker diarization: Recent advances with deep learning”, in *Computer Speech & Language, Volume 72,* 2023. (USC) [[Paper](https://arxiv.org/abs/2101.09624)]
 
 ## EEND (End-to-End Neural Diarization)-based
@@ -91,7 +89,11 @@ If you discover any unnoticed documents, please open issues or pull requests (re
 - **CSDA**: "Continual Self-Supervised Domain Adaptation for End-to-End Speaker Diarization", in *Proc. IEEE SLT*, 2022. (CNRS) [[Paper](https://ieeexplore.ieee.org/document/10023195)] [[Code](https://github.com/juanmc2005/CSDA)]
 
 ## Joint-Training
+### With Separation
 - **EEND-SS**: "Joint End-to-End Neural Speaker Diarization and Speech Separation for Flexible Number of Speakers”, in *Proc. SLT,* 2022. (CMU) [[Paper](https://arxiv.org/abs/2203.17068)]
+
+### With ASR
+- "Unified Modeling of Multi-Talker Overlapped Speech Recognition and Diarization with a Sidecar Separator", in *Proc. Interspeech*, 2023. (CUHK) [[Paper](https://arxiv.org/abs/2305.16263)]
 
 ## Multi-Channel
 - "Multi-Channel Speaker Diarization Using Spatial Features for Meetings", in *Proc. ICASSP*, 2022. (Tencent) [[Paper](https://ieeexplore.ieee.org/document/9747343)] 
@@ -99,37 +101,47 @@ If you discover any unnoticed documents, please open issues or pull requests (re
 ## Measurement
 - **BER:** “Balanced Error Rate For Speaker Diarization”, in *Proc. arXiv:2211.04304,* 2022 [[Paper](https://arxiv.org/abs/2211.04304)] [[Code](https://github.com/X-LANCE/BER)]
 
-# Multi-Modal
-## With NLP
-- "Exploring Speaker-Related Information in Spoken Language Understanding for Better Speaker Diarization", in *Proc. ACL", 2023. (Alibaba) [[Paper](https://arxiv.org/abs/2305.12927)]
+## Multi-Modal
+### With NLP
+- "Exploring Speaker-Related Information in Spoken Language Understanding for Better Speaker Diarization", in *Proc. ACL*, 2023. (Alibaba) [[Paper](https://arxiv.org/abs/2305.12927)]
 
-## Challenge
-### 2022 M2MeT (Multi-channel Multi-party Meeting Transcription Grand Challenge)
-[[Introduction Paper](https://arxiv.org/abs/2110.07393?spm=a3c0i.25445127.6257982940.1.111654811kxLMY&file=2110.07393)] [[Summary Paper](https://arxiv.org/abs/2202.03647?spm=a3c0i.25445127.6257982940.2.111654811kxLMY&file=2202.03647)] [[Dataset-AliMeeting](https://www.openslr.org/119)] [[Code](https://github.com/yufan-aslp/AliMeeting)]
-- 1st: **DKU** [[Paper](https://arxiv.org/abs/2202.02687)]
-- 2nd: **CUHK-TENCENT** [[Paper](https://arxiv.org/abs/2202.01986)]
+### With Vision
+- "Who said that?: Audio-visual speaker diarisation of real-world meetings", in *Proc. Interspeech*, 2019. (Naver) [[Paper](https://arxiv.org/abs/1906.10042)]
+- "Self-supervised learning for audio-visual speaker diarization", in *Proc. ICASSP*, 2020. (Tencent) [[Paper](https://arxiv.org/abs/2002.05314)] [[Blog](https://yifan16.github.io/av-spk-diarization/)]
+- **AVA-AVD (AVR-Net)**: "AVA-AVD: Audio-Visual Speaker Diarization in the Wild", in *Proc. ACM MM*, 2022. [[Paper](https://arxiv.org/abs/2111.14448)] [[Code](https://github.com/zcxu-eric/AVA-AVD)] [[Video](https://dl.acm.org/action/downloadSupplement?doi=10.1145%2F3503161.3548027&file=MM22-fp1169.mp4)] 
+- "End-to-End Audio-Visual Neural Speaker Diarization", in *Proc. Interspeech*, 2022. (USTC) [[Paper](https://www.isca-speech.org/archive/interspeech_2022/he22c_interspeech.html)] [[Code](https://github.com/mispchallenge/misp2022_baseline/tree/main/track1_AVSD)] [[Review](https://velog.io/@dongkeon/2022-End-to-End-Audio-Visual-Neural-Speaker-Diarization-2022-Interspeech)]
+- **DyViSE**: "DyViSE: Dynamic Vision-Guided Speaker Embedding for Audio-Visual Speaker Diarization", in *Proc. MMSP*, 2022. (THU) [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9948860)] [[Code](https://github.com/zaocan666/DyViSE)]
+- "Audio-Visual Speaker Diarization in the Framework of Multi-User Human-Robot Interaction", in *Proc. ICASSP*, 2023. [[Paper](https://ieeexplore.ieee.org/abstract/document/10096295)]
 
-### 2022 VoxSRC Track4
-[[Paper](https://arxiv.org/abs/2302.10248)] [[Workshop](http://mm.kaist.ac.kr/datasets/voxceleb/voxsrc/interspeech2022.html)]
-
-- 1st: **DKU** [[Tech Report](https://arxiv.org/abs/2210.01677)] [[slide]](http://mm.kaist.ac.kr/datasets/voxceleb/voxsrc/data_workshop_2022/slides/DKU-DukeECE_slides.pdf) [[Video](http://mm.kaist.ac.kr/datasets/voxceleb/voxsrc/data_workshop_2022/videos/DKU-DukeECE_video.mp4)]
-- 2nd: **KristonAI** [[Tech Report](https://arxiv.org/abs/2209.11433)] [[slide]](http://mm.kaist.ac.kr/datasets/voxceleb/voxsrc/data_workshop_2022/slides/voxsrc2022_kristonai_track4.pdf) [[Video](http://mm.kaist.ac.kr/datasets/voxceleb/voxsrc/data_workshop_2022/videos/voxsrc2022_kristonai_track4.mp4)]
-- 3rd: **GIST** [[Tech Report](https://arxiv.org/abs/2209.10357)] [[slide]](http://mm.kaist.ac.kr/datasets/voxceleb/voxsrc/data_workshop_2022/slides/gist_slides.pdf) [[Video](http://mm.kaist.ac.kr/datasets/voxceleb/voxsrc/data_workshop_2022/videos/video_aiter.mp4)]
-
-### 2021 VosSRC Track4
-
-[[Workshop](https://www.robots.ox.ac.uk/~vgg/data/voxceleb/interspeech2021.html)]
-
-- 1st: **DKU** [[Tech Report]](https://arxiv.org/abs/2109.02002) [[Video]](https://www.robots.ox.ac.uk/~vgg/data/voxceleb/data_workshop_2021/participants/DKU-DukeECE-Lenovo.mp4)
-- 2nd: **Bytedance** [[Tech Report](https://www.robots.ox.ac.uk/~vgg/data/voxceleb/data_workshop_2021/reports/ByteDance_diarization.pdf)] [[Video]](https://www.robots.ox.ac.uk/~vgg/data/voxceleb/data_workshop_2021/participants/Bytedance_SAMI.mp4)
-- 3rd: **Tencent**  [[Tech Report](https://www.robots.ox.ac.uk/~vgg/data/voxceleb/data_workshop_2021/reports/Tencent_diarization.pdf)]
-
+# Challenge
+## VoxSRC (VoxCeleb Speaker Recognition Challenge)
 ### 2020 VosSRC Track4
-
 [[Workshop](https://www.robots.ox.ac.uk/~vgg/data/voxceleb/interspeech2020.html)]
-
 - 1st: **Microsoft** [[Tech Report]](https://arxiv.org/abs/2010.11458) [[Video]](https://www.robots.ox.ac.uk/~vgg/data/voxceleb/data_workshop_2020/participants/mandalorian.mp4)
 - 2nd: **BUT** [[Tech Report](https://arxiv.org/abs/2010.11718)] [[Video]](https://www.robots.ox.ac.uk/~vgg/data/voxceleb/data_workshop_2020/participants/landini.mp4)
 - 3rd: **DKU**  [[Tech Report](https://arxiv.org/abs/2010.12731)]
 
+### 2021 VosSRC Track4
+[[Workshop](https://www.robots.ox.ac.uk/~vgg/data/voxceleb/interspeech2021.html)]
+- 1st: **DKU** [[Tech Report]](https://arxiv.org/abs/2109.02002) [[Video]](https://www.robots.ox.ac.uk/~vgg/data/voxceleb/data_workshop_2021/participants/DKU-DukeECE-Lenovo.mp4)
+- 2nd: **Bytedance** [[Tech Report](https://www.robots.ox.ac.uk/~vgg/data/voxceleb/data_workshop_2021/reports/ByteDance_diarization.pdf)] [[Video]](https://www.robots.ox.ac.uk/~vgg/data/voxceleb/data_workshop_2021/participants/Bytedance_SAMI.mp4)
+- 3rd: **Tencent**  [[Tech Report](https://www.robots.ox.ac.uk/~vgg/data/voxceleb/data_workshop_2021/reports/Tencent_diarization.pdf)]
 
+### 2022 VoxSRC Track4
+[[Paper](https://arxiv.org/abs/2302.10248)] [[Workshop](http://mm.kaist.ac.kr/datasets/voxceleb/voxsrc/interspeech2022.html)]
+- 1st: **DKU** [[Tech Report](https://arxiv.org/abs/2210.01677)] [[slide]](http://mm.kaist.ac.kr/datasets/voxceleb/voxsrc/data_workshop_2022/slides/DKU-DukeECE_slides.pdf) [[Video](http://mm.kaist.ac.kr/datasets/voxceleb/voxsrc/data_workshop_2022/videos/DKU-DukeECE_video.mp4)]
+- 2nd: **KristonAI** [[Tech Report](https://arxiv.org/abs/2209.11433)] [[slide]](http://mm.kaist.ac.kr/datasets/voxceleb/voxsrc/data_workshop_2022/slides/voxsrc2022_kristonai_track4.pdf) [[Video](http://mm.kaist.ac.kr/datasets/voxceleb/voxsrc/data_workshop_2022/videos/voxsrc2022_kristonai_track4.mp4)]
+- 3rd: **GIST** [[Tech Report](https://arxiv.org/abs/2209.10357)] [[slide]](http://mm.kaist.ac.kr/datasets/voxceleb/voxsrc/data_workshop_2022/slides/gist_slides.pdf) [[Video](http://mm.kaist.ac.kr/datasets/voxceleb/voxsrc/data_workshop_2022/videos/video_aiter.mp4)] [[Reivew](https://velog.io/@fbdp1202/VoxSRC22-%EB%8C%80%ED%9A%8C-%EC%B0%B8%EA%B0%80-%EB%A6%AC%EB%B7%B0-VoxSRC-Challenge-2022-Task-4)]
+
+## M2MeT (Multi-channel Multi-party Meeting Transcription Grand Challenge)
+### 2022 M2MeT 
+[[Introduction Paper](https://arxiv.org/abs/2110.07393?spm=a3c0i.25445127.6257982940.1.111654811kxLMY&file=2110.07393)] [[Summary Paper](https://arxiv.org/abs/2202.03647?spm=a3c0i.25445127.6257982940.2.111654811kxLMY&file=2202.03647)] [[Dataset-AliMeeting](https://www.openslr.org/119)] [[Code](https://github.com/yufan-aslp/AliMeeting)]
+- 1st: **DKU** [[Paper](https://arxiv.org/abs/2202.02687)]
+- 2nd: **CUHK-TENCENT** [[Paper](https://arxiv.org/abs/2202.01986)]
+
+## MISP (Multimodal Information Based Speech Processing)
+### 2022 MISP Track1
+[[Introduction Paper](https://arxiv.org/abs/2303.06326)] [[Page](https://mispchallenge.github.io/mispchallenge2022/)] [[Basline Code](https://github.com/mispchallenge/misp2022_baseline/tree/main)]
+- 1st: **WHU-Alibaba** [[Paper](https://mispchallenge.github.io/mispchallenge2022/papers/task1/Track1_WHU-ALIBABA.pdf)] [[Review](https://velog.io/@dongkeon/2023-WHU-Alibaba-MISP-2022)]
+- 2nd: **SJTU** [[Paper](https://mispchallenge.github.io/mispchallenge2022/papers/task1/Track1_SJTU.pdf)]
+- 3rd: **NPU-ASLP** [[Paper](https://mispchallenge.github.io/mispchallenge2022/papers/task1/Track1_NPU-ASLP.pdf)]
