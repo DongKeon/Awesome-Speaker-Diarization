@@ -4,6 +4,30 @@ Some comprehensive papers about speaker diarization (SD).
 
 If you discover any unnoticed documents, please open issues or pull requests (recommended).
 
+# Table of Contents
+- [Overview](#overview)
+- [Reviews](#reviews)
+- [EEND (End-to-End Neural Diarization)-based](#eend-end-to-end-neural-diarization-based)
+- [Clustering-based](#clustering-based)
+- [TS-VAD](#ts-vad)
+- [Post-Processing](#post-processing)
+- [Embedding](#embedding)
+- [Scoring](#scoring)
+- [Online](#online)
+- [Simulated Dataset](#simulated-dataset)
+- [Self-Supervised](#self-supervised)
+- [Joint-Training](#joint-training)
+  - [With Separation](#with-separation)
+  - [With ASR](#with-asr)
+- [Multi-Channel](#multi-channel)
+- [Measurement](#measurement)
+- [Multi-Modal](#multi-modal)
+  - [With NLP](#with-nlp)
+  - [With Vision](#with-vision)
+- [Challenge](#challenge)
+  - [VoxSRC (VoxCeleb Speaker Recognition Challenge)](#voxsRC-voxceleb-speaker-recognition-challenge)
+  - [MISP (Multimodal Information Based Speech Processing) (ICASSP Challenge)](#misp-multimodal-information-based-speech-processing-icassp-challenge)
+
 ## Overview
 - **DIHARD Keynote Session:** The yellow brick road of diarization, challenges and other neural paths [[Slides]](https://dihardchallenge.github.io/dihard3workshop/slide/The%20yellow%20brick%20road%20of%20diarization,%20challenges%20and%20other%20neural%20paths.pdf) [[Video]](https://www.youtube.com/watch?v=_usbos-SJlg&list=PLK8w8IgaxTVrf1DBMajNytq87bZi183El&index=10)
 
@@ -152,3 +176,9 @@ If you discover any unnoticed documents, please open issues or pull requests (re
 - 1st: **WHU-Alibaba** [[Paper](https://mispchallenge.github.io/mispchallenge2022/papers/task1/Track1_WHU-ALIBABA.pdf)] [[Review](https://velog.io/@dongkeon/2023-WHU-Alibaba-MISP-2022)]
 - 2nd: **SJTU** [[Paper](https://mispchallenge.github.io/mispchallenge2022/papers/task1/Track1_SJTU.pdf)]
 - 3rd: **NPU-ASLP** [[Paper](https://mispchallenge.github.io/mispchallenge2022/papers/task1/Track1_NPU-ASLP.pdf)]
+
+
+# Other Awesome-list 
+https://github.com/wq2012/awesome-diarization
+
+https://github.com/xyxCalvin/awesome-speaker-diarization
