@@ -186,14 +186,14 @@ If you discover any unnoticed documents, please open issues or pull requests (re
 ### 2020 DIHARD III
 [[Page](https://dihardchallenge.github.io/dihard3/)] [[Ppaer](https://arxiv.org/abs/2012.01477)] [[Program](https://dihardchallenge.github.io/dihard3workshop/program)] 
 #### Track1
-1st: **USTC** [[Paper](https://arxiv.org/abs/2103.10661)] [Slides](https://dihardchallenge.github.io/dihard3workshop/slide/The%20USTC-NELSLIP%20Systems%20for%20DIHARD%20III%20Challenge.pdf)] [[Video](https://www.youtube.com/watch?v=ijNPazF8EwU&list=PLK8w8IgaxTVrf1DBMajNytq87bZi183El&index=7)]
-2nd: **Hitachi** [[Paper](https://arxiv.org/abs/2102.01363)] [[Slide](https://dihardchallenge.github.io/dihard3workshop/slide/Hitachi-JHU%20System%20for%20the%20Third%20DIHARD%20Speech%20Diarization%20Challenge.pdf)] [[Video](https://www.youtube.com/watch?v=xKGzrF1YEjQ&list=PLK8w8IgaxTVrf1DBMajNytq87bZi183El&index=4)]
-3rd: **Naver Clova** [[Paper](https://dihardchallenge.github.io/dihard3/system_descriptions/dihard3_system_description_team73.pdf)] [[Slide](https://dihardchallenge.github.io/dihard3workshop/slide/NAVER%20Clova%20Submission%20To%20The%20Third%20DIHARD%20Challenge.pdf)] [[Video](https://www.youtube.com/watch?v=X9F2WPWJIR4&list=PLK8w8IgaxTVrf1DBMajNytq87bZi183El&index=2)]
+- 1st: **USTC** [[Paper](https://arxiv.org/abs/2103.10661)] [Slides](https://dihardchallenge.github.io/dihard3workshop/slide/The%20USTC-NELSLIP%20Systems%20for%20DIHARD%20III%20Challenge.pdf)] [[Video](https://www.youtube.com/watch?v=ijNPazF8EwU&list=PLK8w8IgaxTVrf1DBMajNytq87bZi183El&index=7)]
+- 2nd: **Hitachi** [[Paper](https://arxiv.org/abs/2102.01363)] [[Slide](https://dihardchallenge.github.io/dihard3workshop/slide/Hitachi-JHU%20System%20for%20the%20Third%20DIHARD%20Speech%20Diarization%20Challenge.pdf)] [[Video](https://www.youtube.com/watch?v=xKGzrF1YEjQ&list=PLK8w8IgaxTVrf1DBMajNytq87bZi183El&index=4)]
+- 3rd: **Naver Clova** [[Paper](https://dihardchallenge.github.io/dihard3/system_descriptions/dihard3_system_description_team73.pdf)] [[Slide](https://dihardchallenge.github.io/dihard3workshop/slide/NAVER%20Clova%20Submission%20To%20The%20Third%20DIHARD%20Challenge.pdf)] [[Video](https://www.youtube.com/watch?v=X9F2WPWJIR4&list=PLK8w8IgaxTVrf1DBMajNytq87bZi183El&index=2)]
 
 #### Track2
-1st: **USTC-NELSLIP** [[Paper](https://arxiv.org/abs/2103.10661)] [Slides](https://dihardchallenge.github.io/dihard3workshop/slide/The%20USTC-NELSLIP%20Systems%20for%20DIHARD%20III%20Challenge.pdf)] [[Video](https://www.youtube.com/watch?v=ijNPazF8EwU&list=PLK8w8IgaxTVrf1DBMajNytq87bZi183El&index=7)]
-2nd: **Hitachi** [[Paper](https://arxiv.org/abs/2102.01363)] [[Slide](https://dihardchallenge.github.io/dihard3workshop/slide/Hitachi-JHU%20System%20for%20the%20Third%20DIHARD%20Speech%20Diarization%20Challenge.pdf)] [[Video](https://www.youtube.com/watch?v=xKGzrF1YEjQ&list=PLK8w8IgaxTVrf1DBMajNytq87bZi183El&index=4)]
-3rd: **DKU** [[Paper](https://arxiv.org/abs/2102.03649)] [[Slide](https://dihardchallenge.github.io/dihard3workshop/slide/System%20Description%20for%20Team%20DKU-Duke-Lenovo.pdf)] [[Video](https://www.youtube.com/watch?v=FF5QAm6Jgy8&list=PLK8w8IgaxTVrf1DBMajNytq87bZi183El&index=6)] 
+- 1st: **USTC-NELSLIP** [[Paper](https://arxiv.org/abs/2103.10661)] [Slides](https://dihardchallenge.github.io/dihard3workshop/slide/The%20USTC-NELSLIP%20Systems%20for%20DIHARD%20III%20Challenge.pdf)] [[Video](https://www.youtube.com/watch?v=ijNPazF8EwU&list=PLK8w8IgaxTVrf1DBMajNytq87bZi183El&index=7)]
+- 2nd: **Hitachi** [[Paper](https://arxiv.org/abs/2102.01363)] [[Slide](https://dihardchallenge.github.io/dihard3workshop/slide/Hitachi-JHU%20System%20for%20the%20Third%20DIHARD%20Speech%20Diarization%20Challenge.pdf)] [[Video](https://www.youtube.com/watch?v=xKGzrF1YEjQ&list=PLK8w8IgaxTVrf1DBMajNytq87bZi183El&index=4)]
+- 3rd: **DKU** [[Paper](https://arxiv.org/abs/2102.03649)] [[Slide](https://dihardchallenge.github.io/dihard3workshop/slide/System%20Description%20for%20Team%20DKU-Duke-Lenovo.pdf)] [[Video](https://www.youtube.com/watch?v=FF5QAm6Jgy8&list=PLK8w8IgaxTVrf1DBMajNytq87bZi183El&index=6)] 
 
 
 
