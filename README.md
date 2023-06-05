@@ -96,6 +96,7 @@ If you discover any unnoticed documents, please open issues or pull requests (re
 
 ## Scoring
 - **LSTM scoring**: "LSTM based Similarity Measurement with Spectral Clustering for Speaker Diarization", in *Proc. Interspeech*, 2019. [[Paper](https://arxiv.org/abs/1907.10393)]
+- "Self-Attentive Similarity Measurement Strategies in Speaker Diarization", in *Proc. Interspeech*, 2020. [[Paper](https://www.isca-speech.org/archive/interspeech_2020/lin20_interspeech.html)]
 - **GAT**: "Multi-scale speaker embedding-based graph attention networks for speaker diarisation", in *Proc. ICASSP*, 2022. (Naver) [[Paper](https://arxiv.org/abs/2110.03361)]
 
 ## Online
