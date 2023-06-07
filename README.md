@@ -119,6 +119,10 @@ If you discover any unnoticed documents, please open issues or pull requests (re
 - "Multi-Speaker and Wide-Band Simulated Conversations as Training Data for End-to-End Neural Diarization", in *Proc. ICASSP*, 2023. (BUT) [[Paper](https://arxiv.org/abs/2211.06750)] [[Code](https://github.com/BUTSpeechFIT/EEND_dataprep)] [[Review](https://velog.io/@dongkeon/2023-Simulated-Conversations-ICASSP)]
 - **EEND-EDA-SpkAtt:** Towrards End-to-end Speaker Diarzation in the Wild, in *Proc. ICASSP*, 2023. [[Paper](https://arxiv.org/abs/2211.01299)]
 
+## Personal VAD
+- "**Personal VAD**: Speaker-Conditioned Voice Activity Detection", in *Proc. Odyssey*, 2020. (Google) [[Paper](https://arxiv.org/abs/1908.04284)]
+- "**SVVAD**: Personal Voice Activity Detection for Speaker Verification", in *Proc. Interspeech*, 2023. [[Paper](https://arxiv.org/abs/2305.19581)]
+
 ## Dataset
 - **Voxconverse**: "Spot the conversation: speaker diarisation in the wild", in *Proc. Interspeech*, 2020. (VGG, Naver) [[Paper](https://arxiv.org/abs/2007.01216)] [[Code](https://github.com/joonson/voxconverse)] [[Dataset](https://www.robots.ox.ac.uk/~vgg/data/voxconverse/)] 
 
@@ -187,7 +191,7 @@ If you discover any unnoticed documents, please open issues or pull requests (re
 
 ## DIHARD
 ### 2020 DIHARD III
-[[Page](https://dihardchallenge.github.io/dihard3/)] [[Ppaer](https://arxiv.org/abs/2012.01477)] [[Program](https://dihardchallenge.github.io/dihard3workshop/program)] 
+[[Page](https://dihardchallenge.github.io/dihard3/)] [[Paper](https://arxiv.org/abs/2012.01477)] [[Program](https://dihardchallenge.github.io/dihard3workshop/program)] 
 #### Track1
 - 1st: **USTC** [[Paper](https://arxiv.org/abs/2103.10661)] [Slides](https://dihardchallenge.github.io/dihard3workshop/slide/The%20USTC-NELSLIP%20Systems%20for%20DIHARD%20III%20Challenge.pdf)] [[Video](https://www.youtube.com/watch?v=ijNPazF8EwU&list=PLK8w8IgaxTVrf1DBMajNytq87bZi183El&index=7)]
 - 2nd: **Hitachi** [[Paper](https://arxiv.org/abs/2102.01363)] [[Slide](https://dihardchallenge.github.io/dihard3workshop/slide/Hitachi-JHU%20System%20for%20the%20Third%20DIHARD%20Speech%20Diarization%20Challenge.pdf)] [[Video](https://www.youtube.com/watch?v=xKGzrF1YEjQ&list=PLK8w8IgaxTVrf1DBMajNytq87bZi183El&index=4)]
@@ -199,6 +203,8 @@ If you discover any unnoticed documents, please open issues or pull requests (re
 - 3rd: **DKU** [[Paper](https://arxiv.org/abs/2102.03649)] [[Slide](https://dihardchallenge.github.io/dihard3workshop/slide/System%20Description%20for%20Team%20DKU-Duke-Lenovo.pdf)] [[Video](https://www.youtube.com/watch?v=FF5QAm6Jgy8&list=PLK8w8IgaxTVrf1DBMajNytq87bZi183El&index=6)] 
 
 
+## CHiME-6
+[[Overview](https://chimechallenge.github.io/chime6/overview.html)] [[Paper](https://arxiv.org/abs/2004.09249)]
 
 # Other Awesome-list 
 https://github.com/wq2012/awesome-diarization
