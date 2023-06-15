@@ -16,7 +16,7 @@ If you discover any unnoticed documents, please open issues or pull requests (re
 - [Online](#online)
 - [Simulated Dataset](#simulated-dataset)
 - [Self-Supervised](#self-supervised)
-- [Joint-Training](#joint-training)
+- [Multitask](#multitask)
   - [With Separation](#with-separation)
   - [With ASR](#with-asr)
 - [Multi-Channel](#multi-channel)
@@ -131,12 +131,15 @@ If you discover any unnoticed documents, please open issues or pull requests (re
 - “Self-supervised Speaker Diarization”, in *Proc. Interspeech,* 2022. [[Paper](https://arxiv.org/abs/2204.04166)]
 - **CSDA**: "Continual Self-Supervised Domain Adaptation for End-to-End Speaker Diarization", in *Proc. IEEE SLT*, 2022. (CNRS) [[Paper](https://ieeexplore.ieee.org/document/10023195)] [[Code](https://github.com/juanmc2005/CSDA)]
 
-## Joint-Training
+## Multi-Tasking
 ### With Separation
 - **EEND-SS**: "Joint End-to-End Neural Speaker Diarization and Speech Separation for Flexible Number of Speakers”, in *Proc. SLT,* 2022. (CMU) [[Paper](https://arxiv.org/abs/2203.17068)]
 
 ### With ASR
+- "Tandem Multitask Training of Speaker Diarisation and Speech Recognition for Meeting Transcription", in *Proc. Interspeech*, 2022. [[Paper](https://arxiv.org/abs/2207.03852)]
 - "Unified Modeling of Multi-Talker Overlapped Speech Recognition and Diarization with a Sidecar Separator", in *Proc. Interspeech*, 2023. (CUHK) [[Paper](https://arxiv.org/abs/2305.16263)]
+
+
 
 ## Multi-Channel
 - "Multi-Channel End-to-End Neural Diarization with Distributed Microphones", in *Proc. ICASSP*, 2022. (Hitachi) [[Paper](https://arxiv.org/abs/2110.04694)]
