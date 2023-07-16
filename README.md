@@ -100,6 +100,7 @@ If you discover any unnoticed documents, please open issues or pull requests (re
 - **PRISM**: "PRISM: Pre-trained Indeterminate Speaker Representation Model for Speaker Diarization and Speaker Verification", in *Proc. Interspeech*, 2022. (Alibaba) [[Paper](https://arxiv.org/abs/2205.07450)]
 - **DR-DESA**: "Advancing the dimensionality reduction of speaker embeddings for speaker diarisation: disentangling noise and informing speech activity", in *Proc. ICASSP*, 2023. (Naver) [[Paper](https://arxiv.org/abs/2110.03380)]
 - **HEE**: "High-resolution embedding extractor for speaker diarisation", in *Proc. ICASSP*, 2023. (Naver)  [[Paper](https://arxiv.org/abs/2211.04060)]
+- "Frame-wise and overlap-robust speaker embeddings for meeting diarization", in *Proc. ICASSP*, 2023. (PU) [[Paper](https://arxiv.org/pdf/2306.00625.pdf)]
 
 ## Scoring
 - **LSTM scoring**: "LSTM based Similarity Measurement with Spectral Clustering for Speaker Diarization", in *Proc. Interspeech*, 2019. (DKU) [[Paper](https://arxiv.org/abs/1907.10393)]
