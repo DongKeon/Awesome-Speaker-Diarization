@@ -140,9 +140,12 @@ If you discover any unnoticed documents, please open issues or pull requests (re
 ## Dataset
 - **Voxconverse**: "Spot the conversation: speaker diarisation in the wild", in *Proc. Interspeech*, 2020. (VGG, Naver) [[Paper](https://arxiv.org/abs/2007.01216)] [[Code](https://github.com/joonson/voxconverse)] [[Dataset](https://www.robots.ox.ac.uk/~vgg/data/voxconverse/)] 
 
-## Self-Suprvised
+## Self-Supervised
 - “Self-supervised Speaker Diarization”, in *Proc. Interspeech,* 2022. [[Paper](https://arxiv.org/abs/2204.04166)]
 - **CSDA**: "Continual Self-Supervised Domain Adaptation for End-to-End Speaker Diarization", in *Proc. IEEE SLT*, 2022. (CNRS) [[Paper](https://ieeexplore.ieee.org/document/10023195)] [[Code](https://github.com/juanmc2005/CSDA)]
+
+## Semi-Supervised
+- "Semi-supervised multi-channel speaker diarization with cross-channel attention", in *UnderReview Proc. ASRU,* 2023. (USTC) [[Paper](https://arxiv.org/abs/2307.08688)]
 
 ## With SSL 
 - "End-to-End Spoken Language Diarization with Wav2vec Embeddings", in *Proc. Interspeech*, 2023.
