@@ -160,6 +160,7 @@ If you discover any unnoticed documents, please open issues or pull requests (re
 ## Multi-Tasking
 ### With Separation
 - **EEND-SS**: "Joint End-to-End Neural Speaker Diarization and Speech Separation for Flexible Number of Speakers”, in *Proc. SLT,* 2022. (CMU) [[Paper](https://arxiv.org/abs/2203.17068)]
+- **TS-SEP**: Joint Diarization and Separation Conditioned on Estimated Speaker Embeddings", in *UnderReview IEEE/ACM TASLP*, 2023. [[Paper](https://arxiv.org/abs/2303.03849)]
 
 ## Multi-Channel
 - "Multi-Channel End-to-End Neural Diarization with Distributed Microphones", in *Proc. ICASSP*, 2022. (Hitachi) [[Paper](https://arxiv.org/abs/2110.04694)]
