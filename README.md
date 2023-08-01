@@ -132,7 +132,7 @@ If you discover any unnoticed documents, please open issues or pull requests (re
 - "Self-Attentive Similarity Measurement Strategies in Speaker Diarization", in *Proc. Interspeech*, 2020. (DKU) [[Paper](https://www.isca-speech.org/archive/interspeech_2020/lin20_interspeech.html)]
 - “Similarity Measurement of Segment-Level Speaker Embeddings in Speaker Diarization”, *IEEE/ACM TASLP,* 2023. (DKU) [[Paper](https://ieeexplore.ieee.org/document/9849033)]
   
-  ### PLDA (Probabilistic Linear Discriminant Analysis), Two Covariance Model
+  ### PLDA (Probabilistic Linear Discriminant Analysis)
   - "The speaker partitioning problem", in *Proc. Odyssey*, 2018. [[Paper](https://www.isca-speech.org/archive_open/odyssey_2010/od10_034.html)]
   - "Discriminatively trained probabilistic linear discriminant analysis for speaker verification", in *Proc. ICASSP*, 2021. [[Paper](https://ieeexplore.ieee.org/document/5947437)]
   - "Speaker diarization with plda i-vector scoring and unsupervised calibration", in *Proc. IEEE SLT*, 2014. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7078610)]
