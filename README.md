@@ -91,22 +91,14 @@ If you discover any unnoticed documents, please open issues or pull requests (re
   - "Analysis of the but Diarization System for **Voxconverse Challenge**", in *Proc. ICASSP*, 2021. (BUT) [[Paper](https://ieeexplore.ieee.org/document/9414315)] [[Code](https://github.com/BUTSpeechFIT/VBx/tree/v1.1_VoxConverse2020)]
   - "Bayesian HMM clustering of x-vector sequences (VBx) in speaker diarization: theory, implementation and analysis on standard tasks", in *Computer Speech & Language*, 2022. (BUT) [[Paper](https://arxiv.org/abs/2012.14952)]
   - **MS-VBx**: "Multi-Stream Extension of Variational Bayesian HMM Clustering (MS-VBx) for Combined End-to-End and Vector Clustering-based Diarization", in *Proc. Interspeech*, 2023. (NTT) [[Paper](https://arxiv.org/abs/2305.13580)]
-### Variational Bayes 
+
+  ### Variational Bayes 
   - "Variational Bayesian methods for audio indexing", in *Proc. ICMI-MLMI*, 2005. [[Paper](https://www.eurecom.fr/fr/publication/1739/download/mm-valefa-050923.pdf)]
   - "Bayesian analysis of speaker diarization with eigenvoice priors", in *CRIM, Montreal, Technical Report*, 2008. [[Paper](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=36db5cc928d01b13246582d71bde84fabbd24a19)]
   - "Unsupervised Methods for Speaker Diarization: An Integrated and Iterative Approach", *IEEE/ACM TASLP,* 2013. [[Paper](https://ieeexplore.ieee.org/abstract/document/6518171/)]
   - "Diarization resegmentation in the factor analysis subspace", in *Proc. ICASSP*, 2015. [[Paper](https://ieeexplore.ieee.org/abstract/document/7178881)]
   - "Diarization is hard: some experiences and lessons learned for the JHU team in **the inaugural DIHARD challenge**", in *Proc. Interspeech*, 2018. [[Paper](https://www.isca-speech.org/archive/interspeech_2018/sell18_interspeech.html)]
-### PLDA (Probabilistic Linear Discriminant Analysis), Two Covariance Model
-  - "The speaker partitioning problem", in *Proc. Odyssey*, 2018. [[Paper](https://www.isca-speech.org/archive_open/odyssey_2010/od10_034.html)]
-  - "Discriminatively trained probabilistic linear discriminant analysis for speaker verification", in *Proc. ICASSP*, 2021. [[Paper](https://ieeexplore.ieee.org/document/5947437)]
-  - "Speaker diarization with plda i-vector scoring and unsupervised calibration", in *Proc. IEEE SLT*, 2014. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7078610)]
-  - "Iterative PLDA Adaptation for Speaker Diarization", in *Proc. Interspeech*, 2016. [[Paper](https://www.isca-speech.org/archive/interspeech_2016/lan16_interspeech.html)]
-  - "Domain Adaptation of PLDA Models in Broadcast Diarization by Means of Unsupervised Speaker Clustering, in *Proc. Interspeech*, 2017. [[Paper](https://www.isca-speech.org/archive/interspeech_2017/vinals17_interspeech.html)]
-  - "Estimation of the Number of Speakers with Variational Bayesian PLDA in **the DIHARD Diarization Challenge**", in *Proc. Interspeech*, 2018. [[Paper](https://www.isca-speech.org/archive/interspeech_2018/vinals18_interspeech.html)]
-  - **DCA-PLDA** "A Speaker Verification Backend with Robust Performance across Conditions”, in *Computer & Language*, 2022. [[Paper](https://arxiv.org/pdf/2102.01760.pdf)] [[Code](https://github.com/luferrer/DCA-PLDA)]
 
-  
 
 ## TS-VAD
 - **TS-VAD**: "Target-Speaker Voice Activity Detection: a Novel Approach for Multi-Speaker Diarization in a Dinner Party Scenario", in *Proc. Interspeech*, 2020. [[Paper](https://arxiv.org/abs/2005.07272)] [[Code](https://github.com/dodohow1011/TS-VAD)] [[PPT](https://desh2608.github.io/static/ppt/ts-vad.pdf)]
@@ -136,6 +128,17 @@ If you discover any unnoticed documents, please open issues or pull requests (re
 - **LSTM scoring**: "LSTM based Similarity Measurement with Spectral Clustering for Speaker Diarization", in *Proc. Interspeech*, 2019. (DKU) [[Paper](https://arxiv.org/abs/1907.10393)]
 - "Self-Attentive Similarity Measurement Strategies in Speaker Diarization", in *Proc. Interspeech*, 2020. (DKU) [[Paper](https://www.isca-speech.org/archive/interspeech_2020/lin20_interspeech.html)]
 - “Similarity Measurement of Segment-Level Speaker Embeddings in Speaker Diarization”, *IEEE/ACM TASLP,* 2023. (DKU) [[Paper](https://ieeexplore.ieee.org/document/9849033)]
+  
+  ### PLDA (Probabilistic Linear Discriminant Analysis), Two Covariance Model
+  - "The speaker partitioning problem", in *Proc. Odyssey*, 2018. [[Paper](https://www.isca-speech.org/archive_open/odyssey_2010/od10_034.html)]
+  - "Discriminatively trained probabilistic linear discriminant analysis for speaker verification", in *Proc. ICASSP*, 2021. [[Paper](https://ieeexplore.ieee.org/document/5947437)]
+  - "Speaker diarization with plda i-vector scoring and unsupervised calibration", in *Proc. IEEE SLT*, 2014. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7078610)]
+  - "Iterative PLDA Adaptation for Speaker Diarization", in *Proc. Interspeech*, 2016. [[Paper](https://www.isca-speech.org/archive/interspeech_2016/lan16_interspeech.html)]
+  - "Domain Adaptation of PLDA Models in Broadcast Diarization by Means of Unsupervised Speaker Clustering, in *Proc. Interspeech*, 2017. [[Paper](https://www.isca-speech.org/archive/interspeech_2017/vinals17_interspeech.html)]
+  - "Estimation of the Number of Speakers with Variational Bayesian PLDA in **the DIHARD Diarization Challenge**", in *Proc. Interspeech*, 2018. [[Paper](https://www.isca-speech.org/archive/interspeech_2018/vinals18_interspeech.html)]
+  - **DCA-PLDA** "A Speaker Verification Backend with Robust Performance across Conditions”, in *Computer & Language*, 2022. [[Paper](https://arxiv.org/pdf/2102.01760.pdf)] [[Code](https://github.com/luferrer/DCA-PLDA)]
+
+  
 
 ## Online
 - "Supervised online diarization with sample mean loss for multi-domain data", in *Proc. ICASSP*, 2020 [[Paper](https://arxiv.org/abs/1911.01266)] [[Code](https://github.com/DonkeyShot21/uis-rnn-sml)]
