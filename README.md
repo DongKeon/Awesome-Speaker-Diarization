@@ -124,6 +124,9 @@ If you discover any unnoticed documents, please open issues or pull requests (re
 - **HEE**: "High-resolution embedding extractor for speaker diarisation", in *Proc. ICASSP*, 2023. (Naver)  [[Paper](https://arxiv.org/abs/2211.04060)]
 - "Frame-wise and overlap-robust speaker embeddings for meeting diarization", in *Proc. ICASSP*, 2023. (PU) [[Paper](https://arxiv.org/pdf/2306.00625.pdf)]
 
+### Normalization
+  - "Analysis of i-vector length normalization in speaker recognition systems", in *Proc. Interspeech*, 2011. [[Paper](https://www.isca-speech.org/archive/interspeech_2011/garciaromero11_interspeech.html)]
+
 ## Scoring
 - **LSTM scoring**: "LSTM based Similarity Measurement with Spectral Clustering for Speaker Diarization", in *Proc. Interspeech*, 2019. (DKU) [[Paper](https://arxiv.org/abs/1907.10393)]
 - "Self-Attentive Similarity Measurement Strategies in Speaker Diarization", in *Proc. Interspeech*, 2020. (DKU) [[Paper](https://www.isca-speech.org/archive/interspeech_2020/lin20_interspeech.html)]
