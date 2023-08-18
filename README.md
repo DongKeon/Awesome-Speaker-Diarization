@@ -140,6 +140,7 @@ If you discover any unnoticed documents, please open issues or pull requests (re
   - "Domain Adaptation of PLDA Models in Broadcast Diarization by Means of Unsupervised Speaker Clustering, in *Proc. Interspeech*, 2017. [[Paper](https://www.isca-speech.org/archive/interspeech_2017/vinals17_interspeech.html)]
   - "Estimation of the Number of Speakers with Variational Bayesian PLDA in **the DIHARD Diarization Challenge**", in *Proc. Interspeech*, 2018. [[Paper](https://www.isca-speech.org/archive/interspeech_2018/vinals18_interspeech.html)]
   - **DCA-PLDA** "A Speaker Verification Backend with Robust Performance across Conditions”, in *Computer & Language*, 2022. [[Paper](https://arxiv.org/pdf/2102.01760.pdf)] [[Code](https://github.com/luferrer/DCA-PLDA)]
+  - "Generalized domain adaptation framework for parametric back-end in speaker recognition", in *arXiv:2305.15567*, 2023. [[Paper](https://arxiv.org/abs/2305.15567)]
 
   
 
@@ -246,8 +247,8 @@ If you discover any unnoticed documents, please open issues or pull requests (re
 - 1st: **DKU** [[Tech Report](https://arxiv.org/abs/2308.07595)] 
 - 2nd: **KrispAI** [[Tech Report]()] 
 - 3rd: **Pyannote** [[Tech Report]()] 
-- 4th: **GIST** [[Tech Report](https://arxiv.org/abs/2308.07788)] 
-
+- 4th: **GIST** [[Tech Report](https://arxiv.org/abs/2308.07788)]
+- **Wespeaker** [[Tech Report](https://arxiv.org/abs/2306.15161)] 
 
 ## M2MeT (Multi-channel Multi-party Meeting Transcription Grand Challenge)
 ### 2022 M2MeT 
