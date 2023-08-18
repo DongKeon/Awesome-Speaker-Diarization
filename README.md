@@ -169,6 +169,7 @@ If you discover any unnoticed documents, please open issues or pull requests (re
 - "Multitask Detection of Speaker Changes, Overlapping Speech and Voice Activity Using wav2vec 2.0," in *Proc. ICASSP*, 2023. [[Paper](https://arxiv.org/abs/2210.14755)] [[Code](https://github.com/mkunes/w2v2_audioFrameClassification)]
 - "**Semantic VAD**: Low-Latency Voice Activity Detection for Speech Interaction," in *Proc. Interspeech*, 2023. [[Paper](https://arxiv.org/abs/2305.12450)]
 - "Joint speech and overlap detection: a benchmark over multiple audio setup and speech domains," in *arxiv:2307.13012*, 2023. [[Paper](https://arxiv.org/abs/2307.13012)]
+- "Advancing the study of Large-Scale Learning in Overlapped Speech Detection," in *arXiv:2308.05987*, 2023. [[Paper](https://arxiv.org/abs/2308.05987)]
 
 ## Dataset
 - **Voxconverse**: "Spot the conversation: speaker diarisation in the wild", in *Proc. Interspeech*, 2020. (VGG, Naver) [[Paper](https://arxiv.org/abs/2007.01216)] [[Code](https://github.com/joonson/voxconverse)] [[Dataset](https://www.robots.ox.ac.uk/~vgg/data/voxconverse/)]
@@ -218,6 +219,7 @@ If you discover any unnoticed documents, please open issues or pull requests (re
 - "End-to-End Audio-Visual Neural Speaker Diarization", in *Proc. Interspeech*, 2022. (USTC) [[Paper](https://www.isca-speech.org/archive/interspeech_2022/he22c_interspeech.html)] [[Code](https://github.com/mispchallenge/misp2022_baseline/tree/main/track1_AVSD)] [[Review](https://velog.io/@dongkeon/2022-End-to-End-Audio-Visual-Neural-Speaker-Diarization-2022-Interspeech)]
 - **DyViSE**: "DyViSE: Dynamic Vision-Guided Speaker Embedding for Audio-Visual Speaker Diarization", in *Proc. MMSP*, 2022. (THU) [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9948860)] [[Code](https://github.com/zaocan666/DyViSE)]
 - "Audio-Visual Speaker Diarization in the Framework of Multi-User Human-Robot Interaction", in *Proc. ICASSP*, 2023. [[Paper](https://ieeexplore.ieee.org/abstract/document/10096295)]
+- "Speaker Diarization of Scripted Audiovisual Content," in *arXiv:2308.02160*, 2023. (Amazon) [[Paper](https://arxiv.org/abs/2308.02160)]
 
 # Challenge
 ## VoxSRC (VoxCeleb Speaker Recognition Challenge)
