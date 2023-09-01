@@ -64,8 +64,8 @@ If you discover any unnoticed documents, please open issues or pull requests (re
 - **TOLD**: "TOLD: A Novel Two-Stage Overlap-Aware Framework for Speaker Diarization", in *Proc. ICASSP*, 2023. (Alibaba) [[Paper](https://arxiv.org/abs/2303.05397)] [[Code](https://github.com/alibaba-damo-academy/FunASR)]
 - "Improving End-to-End Neural Diarization Using Conversational Summary Representations", in *Proc. Interspeech*, 2023. [[Paper](https://arxiv.org/abs/2306.13863)]
 - "Self-Distillation into Self-Attention Heads for Improving Transformer-based End-to-End Neural Speaker Diarization", in *Proc. Interspeech*, 2023. (HU) [[Paper](https://www.isca-speech.org/archive/interspeech_2023/jeoung23_interspeech.html)]
-- "Powerset Multi-class Cross Entropy Loss for Neural Speaker Diarization", in *Proc. Interspeech*, 2023. [[Paper](https://www.isca-speech.org/archive/interspeech_2023/plaquet23_interspeech.html)] [[Code](https://github.com/FrenchKrab/IS2023-powerset-diarization)]
-- "End-to-End Neural Speaker Diarization with Absolute Speaker Loss", in  *Proc. Interspeech*, 2023. [[Paper](https://www.isca-speech.org/archive/interspeech_2023/wang23g_interspeech.html)]
+- "Powerset Multi-class Cross Entropy Loss for Neural Speaker Diarization", in *Proc. Interspeech*, 2023. (Pyannote) [[Paper](https://www.isca-speech.org/archive/interspeech_2023/plaquet23_interspeech.html)] [[Code](https://github.com/FrenchKrab/IS2023-powerset-diarization)]
+- "End-to-End Neural Speaker Diarization with Absolute Speaker Loss", in  *Proc. Interspeech*, 2023. (Pyannote) [[Paper](https://www.isca-speech.org/archive/interspeech_2023/wang23g_interspeech.html)]
 
 
 ## Clustering-based
@@ -106,7 +106,7 @@ If you discover any unnoticed documents, please open issues or pull requests (re
 - **EDA-TS-VAD**: “Target Speaker Voice Activity Detection with Transformers and Its Integration with End-to-End Neural Diarization”, in *Proc. ICASSP*, 2023. (Microsoft) [[Paper](https://arxiv.org/abs/2208.13085)]
 - **Seq2Seq-TS-VAD**: “Target-Speaker Voice Activity Detection via Sequence-to-Sequence Prediction”, in *Proc. ICASSP,* 2023. (DKU) [[Paper](https://arxiv.org/abs/2210.16127)] [[Review](https://velog.io/@dongkeon/2023-Seq2Seq-TS-VAD)]
 - **AED-EEND**: “Attention-based Encoder-Decoder Network for End-to-End Neural Speaker Diarization with Target Speaker Attractor”, in *Proc. Interspeech,* 2023. (SJTU) [[Paper](https://www.isca-speech.org/archive/interspeech_2023/chen23n_interspeech.html)]
-- "Unsupervised Adaptation with Quality-Aware Masking to Improve Target-Speaker Voice Activity Detection for Speaker Diarization", in *Proc. Interspeech,* 2023. [[Paper](https://www.isca-speech.org/archive/interspeech_2023/niu23_interspeech.html)]
+- **QM-TS-VAD**: "Unsupervised Adaptation with Quality-Aware Masking to Improve Target-Speaker Voice Activity Detection for Speaker Diarization", in *Proc. Interspeech,* 2023. (USTC) [[Paper](https://www.isca-speech.org/archive/interspeech_2023/niu23_interspeech.html)]
 
 ## Post-Processing
 - **EENDasP**: "End-to-End Speaker Diarization as Post-Processing", in *Proc. ICASSP*, 2021. (Hitachi) [[Paper](https://arxiv.org/abs/2012.10055)] [[Review](https://velog.io/@fbdp1202/EEND-asp-%EB%A6%AC%EB%B7%B0-End-to-End-Speaker-Diarization-as-Post-Processing) [[Code](https://github.com/DongKeon/EENDasP)]
