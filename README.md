@@ -87,7 +87,8 @@ If you discover any unnoticed documents, please open issues or pull requests (re
 - **Pyannote 2.0**: "End-to-end speaker segmentation for overlap-aware resegmentation", in *Proc. Interspeech*, 2021. (CNRS) [[Paper](https://arxiv.org/abs/2104.04045)] [[Code](https://github.com/pyannote/pyannote-audio)] [[Video](https://www.youtube.com/watch?v=wDH2rvkjymY)]
 - **UMAP-Leiden**: "Reformulating Speaker Diarization as Community Detection With Emphasis On Topological Structure", in *Proc. ICASSP*, 2022. (Alibaba) [[Paper](https://arxiv.org/abs/2204.12112)]
 - **SCALE**: "Spectral Clustering-aware Learning of Embeddings for Speaker Diarisation", in *Proc. ICASSP*, 2023. (CAM) [[Paper](https://arxiv.org/abs/2210.13576)]
-- **SHARC**: "Supervised Hierarchical Clustering using Graph Neural Networks for Speaker Diarization", in *Proc. ICASSP*, 2023. (IISC) [[Paper](https://arxiv.org/abs/2302.12716)] 
+- **SHARC**: "Supervised Hierarchical Clustering using Graph Neural Networks for Speaker Diarization", in *Proc. ICASSP*, 2023. (IISC) [[Paper](https://arxiv.org/abs/2302.12716)]
+- **CDGCN**: "Community Detection Graph Convolutional Network for Overlap-Aware Speaker Diarization," in *Proc. ICASSP*, 2023. (XMU) [[Paper](https://arxiv.org/abs/2306.14530)]
 - **Pyannote.Audio 2.1**: "Speaker Diarization Pipeline: Principle, Benchmark and Recipe", in *Proc. Interspeech*, 2023 (CNRS) [[Paper](https://www.isca-speech.org/archive/interspeech_2023/bredin23_interspeech.html)] 
 
 ## Varational Bayes & HMM 
@@ -229,7 +230,9 @@ If you discover any unnoticed documents, please open issues or pull requests (re
 - "End-to-End Audio-Visual Neural Speaker Diarization", in *Proc. Interspeech*, 2022. (USTC) [[Paper](https://www.isca-speech.org/archive/interspeech_2022/he22c_interspeech.html)] [[Code](https://github.com/mispchallenge/misp2022_baseline/tree/main/track1_AVSD)] [[Review](https://velog.io/@dongkeon/2022-End-to-End-Audio-Visual-Neural-Speaker-Diarization-2022-Interspeech)]
 - **DyViSE**: "DyViSE: Dynamic Vision-Guided Speaker Embedding for Audio-Visual Speaker Diarization", in *Proc. MMSP*, 2022. (THU) [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9948860)] [[Code](https://github.com/zaocan666/DyViSE)]
 - "Audio-Visual Speaker Diarization in the Framework of Multi-User Human-Robot Interaction", in *Proc. ICASSP*, 2023. [[Paper](https://ieeexplore.ieee.org/abstract/document/10096295)]
-- "Speaker Diarization of Scripted Audiovisual Content," in *arXiv:2308.02160*, 2023. (Amazon) [[Paper](https://arxiv.org/abs/2308.02160)]
+- **STHG**: "Spatial-Temporal Heterogeneous Graph Learning for Advanced Audio-Visual Diarization, in *Proc. CVPR*, 2023. (Intel) [[Paper](https://arxiv.org/abs/2306.10608)]
+- "Speaker Diarization of Scripted Audiovisual Content," in *submitted ICASSP*, 2024. (Amazon) [[Paper](https://arxiv.org/abs/2308.02160)]
+
 
 ## Child-Adult
 - "Robust Self Supervised Speech Embeddings for Child-Adult Classification in Interactions involving Children with Autism," in *Proc. Interspeech*, 2023. [[Paper](https://www.isca-speech.org/archive/interspeech_2023/lahiri23_interspeech.html)]
