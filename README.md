@@ -108,6 +108,7 @@ If you discover any unnoticed documents, please open issues or pull requests (re
 - **AED-EEND**: “Attention-based Encoder-Decoder Network for End-to-End Neural Speaker Diarization with Target Speaker Attractor”, in *Proc. Interspeech,* 2023. (SJTU) [[Paper](https://www.isca-speech.org/archive/interspeech_2023/chen23n_interspeech.html)]
 - **QM-TS-VAD**: "Unsupervised Adaptation with Quality-Aware Masking to Improve Target-Speaker Voice Activity Detection for Speaker Diarization", in *Proc. Interspeech,* 2023. (USTC) [[Paper](https://www.isca-speech.org/archive/interspeech_2023/niu23_interspeech.html)]
 - "**ANSD-MA-MSE**: Adaptive Neural Speaker Diarization Using Memory-Aware Multi-Speaker Embedding," in *IEEE/ACM TASLP*, 2023. (USTC) [[Paper](https://ieeexplore.ieee.org/document/10093997)] [[Code](https://github.com/Maokui-He/NSD-MA-MSE/tree/main)]
+- **AED-EEND-EE**: "Attention-based Encoder-Decoder End-to-End Neural Diarization with Embedding Enhancer," in *submitted IEEE/ACM TASLP*, 2023. (SJTU) [[Paper](https://arxiv.org/abs/2309.06672)]
 
 ## Post-Processing
 - **EENDasP**: "End-to-End Speaker Diarization as Post-Processing", in *Proc. ICASSP*, 2021. (Hitachi) [[Paper](https://arxiv.org/abs/2012.10055)] [[Review](https://velog.io/@fbdp1202/EEND-asp-%EB%A6%AC%EB%B7%B0-End-to-End-Speaker-Diarization-as-Post-Processing) [[Code](https://github.com/DongKeon/EENDasP)]
