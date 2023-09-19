@@ -10,7 +10,7 @@ If you discover any unnoticed documents, please open issues or pull requests (re
 - [EEND (End-to-End Neural Diarization)-based](#eend-end-to-end-neural-diarization-based)
 - [Using Target Speaker Embedding](#using-target-speaker-embedding)
 - [Clustering-based](#clustering-based)
-- [VBx](#varational-bayes-&-hmm)
+- [VBx](#varational-bayes-hmm)
 - [Post-Processing](#post-processing)
 - [Embedding](#embedding)
 - [Scoring](#scoring)
