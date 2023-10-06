@@ -93,7 +93,7 @@ If you discover any unnoticed documents, please open issues or pull requests (re
 - **Pyannote.Audio 2.1**: "Speaker Diarization Pipeline: Principle, Benchmark and Recipe", in *Proc. Interspeech*, 2023 (CNRS) [[Paper](https://www.isca-speech.org/archive/interspeech_2023/bredin23_interspeech.html)] 
 
 ## Varational Bayes & HMM 
-  ### On BUT 
+  ### VBx Series
   - "Speaker Diarization based on Bayesian HMM with Eigenvoice Priors", in *Proc. Odyssey*, 2018. (BUT) [[Paper](https://www.isca-speech.org/archive/odyssey_2018/diez18_odyssey.html)]
   - "VB-HMM Speaker Diarization with Enhanced and Refined Segment Representation", in *Proc. Odyssey*, 2018. (Tsinghua) [[Paper](https://www.isca-speech.org/archive_v0/Odyssey_2018/abstracts/53.html)]
   - “Analysis of Speaker Diarization Based on Bayesian HMM With Eigenvoice Priors”, *IEEE/ACM TASLP,* 2019. (BUT) [[Paper](https://ieeexplore.ieee.org/document/8910412)]
@@ -103,6 +103,7 @@ If you discover any unnoticed documents, please open issues or pull requests (re
   - "Analysis of the but Diarization System for **Voxconverse Challenge**", in *Proc. ICASSP*, 2021. (BUT) [[Paper](https://ieeexplore.ieee.org/document/9414315)] [[Code](https://github.com/BUTSpeechFIT/VBx/tree/v1.1_VoxConverse2020)]
   - "Bayesian HMM clustering of x-vector sequences (VBx) in speaker diarization: theory, implementation and analysis on standard tasks", in *Computer Speech & Language*, 2022. (BUT) [[Paper](https://arxiv.org/abs/2012.14952)]
   - **MS-VBx**: "Multi-Stream Extension of Variational Bayesian HMM Clustering (MS-VBx) for Combined End-to-End and Vector Clustering-based Diarization", in *Proc. Interspeech*, 2023. (NTT) [[Paper](https://arxiv.org/abs/2305.13580)]
+  - **DVBx**: "Discriminative Training of VBx Diarization", in *Submitted. ICASSP*, 2024. (BUT) [[Paper](https://arxiv.org/pdf/2310.02732.pdf)] [[Code](https://github.com/BUTSpeechFIT/DVBx)]
 
   ### Variational Bayes 
   - "Variational Bayesian methods for audio indexing", in *Proc. ICMI-MLMI*, 2005. [[Paper](https://www.eurecom.fr/fr/publication/1739/download/mm-valefa-050923.pdf)]
@@ -211,6 +212,7 @@ If you discover any unnoticed documents, please open issues or pull requests (re
 - "Lexical Speaker Error Correction: Leveraging Language Models for Speaker Diarization Error Correction", in *Proc. Interspeech*, 2023. (Amazon) [[Paper](https://arxiv.org/abs/2306.09313)]
 - "Enhancing Speaker Diarization with Large Language Models: A Contextual Beam Search Approach,", in *Submitted to ICASSP*, 2024. (NVIDIA) [[Paper](https://arxiv.org/abs/2309.05248)]
 - **WEEND**: "Towards Word-Level End-to-End Neural Speaker Diarization with Auxiliary Network," in *Submitted to ICASSP*, 2024. (Google) [[Paper](https://arxiv.org/abs/2309.08489)]
+- "One model to rule them all ? Towards End-to-End Joint Speaker Diarization and Speech Recognition", in *Submitted to ICASSP*, 2024. (CMU) [[Paper](https://arxiv.org/abs/2310.01688)]
 
 ## Multi-Tasking
 ### With Separation
