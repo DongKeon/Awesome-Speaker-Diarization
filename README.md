@@ -80,7 +80,7 @@ If you discover any unnoticed documents, please open issues or pull requests (re
 - "**ANSD-MA-MSE**: Adaptive Neural Speaker Diarization Using Memory-Aware Multi-Speaker Embedding," in *IEEE/ACM TASLP*, 2023. (USTC) [[Paper](https://ieeexplore.ieee.org/document/10093997)] [[Code](https://github.com/Maokui-He/NSD-MA-MSE/tree/main)]
 - **AED-EEND-EE**: "Attention-based Encoder-Decoder End-to-End Neural Diarization with Embedding Enhancer," in *submitted to IEEE/ACM TASLP*, 2024. (SJTU) [[Paper](https://arxiv.org/abs/2309.06672)]
 - **NSD-MS2S**: "Neural Speaker Diarization Using Memory-Aware Multi-Speaker Embedding with Sequence-to-Sequence Architecture, " in *submitted to ICASSP*, 2024. (USTC) [[Paper](https://arxiv.org/abs/2309.09180)] [[Code](https://github.com/liyunlongaaa/NSD-MS2S)]
-- **PET-TSDVAD**: "Profile-Error-Tolerant Target-Speaker Voice Activity Detection," in *submitted to ICASSP*, 2024. (Microsoft) [[Paper](https://arxiv.org/abs/2309.12521)]
+- **PET-TSVAD**: "Profile-Error-Tolerant Target-Speaker Voice Activity Detection," in *submitted to ICASSP*, 2024. (Microsoft) [[Paper](https://arxiv.org/abs/2309.12521)]
 - "**USED**: Universal Speaker Extraction and Diarization," in *submitted to ICASSP*, 2024. (CHUK) [[Paper](https://arxiv.org/abs/2309.10674)] [[Demo](https://ajyy.github.io/demo/USED/)] [[Util](https://github.com/msinanyildirim/USED-splits)]
 
 ## Clustering-based
