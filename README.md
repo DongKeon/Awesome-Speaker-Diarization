@@ -230,9 +230,15 @@ If you discover any unnoticed documents, please open issues or pull requests (re
 ### With Target Speaker Extraction
 - "**USED**: Universal Speaker Extraction and Diarization," in *submitted to ICASSP*, 2024. (CHUK) [[Paper](https://arxiv.org/abs/2309.10674)] [[Demo](https://ajyy.github.io/demo/USED/)] [[Util](https://github.com/msinanyildirim/USED-splits)]
 
+### With Emotion
+- "**Speech Emotion Diarization**: Which Emotion Appears When?," in *Proc. ASRU,* 2023. (Zaion) [[Paper](https://arxiv.org/abs/2306.12991)]
+- "**EmoDiarize**: Speaker Diarization and Emotion Identification from Speech Signals using Convolutional Neural Networks," in *arxiv:2310.12851*, 2023. [[Paper](https://arxiv.org/abs/2310.12851)]
+
+
 ## Multi-Channel
 - "Multi-Channel End-to-End Neural Diarization with Distributed Microphones", in *Proc. ICASSP*, 2022. (Hitachi) [[Paper](https://arxiv.org/abs/2110.04694)]
-- "Multi-Channel Speaker Diarization Using Spatial Features for Meetings", in *Proc. ICASSP*, 2022. (Tencent) [[Paper](https://ieeexplore.ieee.org/document/9747343)] 
+- "Multi-Channel Speaker Diarization Using Spatial Features for Meetings", in *Proc. ICASSP*, 2022. (Tencent) [[Paper](https://ieeexplore.ieee.org/document/9747343)]
+
 
 ## Measurement
 - **BER:** “Balanced Error Rate For Speaker Diarization”, in *Proc. arXiv:2211.04304,* 2022 [[Paper](https://arxiv.org/abs/2211.04304)] [[Code](https://github.com/X-LANCE/BER)]
