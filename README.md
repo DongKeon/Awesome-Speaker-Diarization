@@ -82,6 +82,9 @@ If you discover any unnoticed documents, please open issues or pull requests (re
 - **NSD-MS2S**: "Neural Speaker Diarization Using Memory-Aware Multi-Speaker Embedding with Sequence-to-Sequence Architecture, " in *submitted to ICASSP*, 2024. (USTC) [[Paper](https://arxiv.org/abs/2309.09180)] [[Code](https://github.com/liyunlongaaa/NSD-MS2S)]
 - **PET-TSVAD**: "Profile-Error-Tolerant Target-Speaker Voice Activity Detection," in *submitted to ICASSP*, 2024. (Microsoft) [[Paper](https://arxiv.org/abs/2309.12521)]
 
+## Target Speech Diarization 
+- **PTSD**: "Prompt-driven Target Speech Diarization," in *submitted to ICASSP*, 2024. (NUS) [[Paper](https://arxiv.org/abs/2310.14823)]
+
 ## Clustering-based
 - **UIS-RNN**: "Fully Supervised Speaker Diarization" (Google) [[Paper](https://arxiv.org/abs/1810.04719)] [[Code](https://github.com/google/uis-rnn)]
 - **DNC**: "Discriminative Neural Clustering for Speaker Diarisation", in *Proc. IEEE SLT*, 2019. [[Paper](https://arxiv.org/abs/1910.09703)] [[Code](https://github.com/FlorianKrey/DNC)] [[Review](https://velog.io/@dongkeon/2019-DNC-SLT)]
