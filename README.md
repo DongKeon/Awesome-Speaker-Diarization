@@ -186,6 +186,7 @@ If you discover any unnoticed documents, please open issues or pull requests (re
 - **Markov selection**: “Improving the naturalness of simulated conversations for end-to-end neural diarization”, in *Proc. Odyssey*, 2022. (Hitachi) [[Paper](https://arxiv.org/abs/2204.11232)]
 - "Multi-Speaker and Wide-Band Simulated Conversations as Training Data for End-to-End Neural Diarization", in *Proc. ICASSP*, 2023. (BUT) [[Paper](https://arxiv.org/abs/2211.06750)] [[Code](https://github.com/BUTSpeechFIT/EEND_dataprep)] [[Review](https://velog.io/@dongkeon/2023-Simulated-Conversations-ICASSP)]
 - **EEND-EDA-SpkAtt:** Towrards End-to-end Speaker Diarzation in the Wild, in *Proc. ICASSP*, 2023. [[Paper](https://arxiv.org/abs/2211.01299)]
+- "Property-Aware Multi-Speaker Data Simulation: A Probabilistic Modelling Technique for Synthetic Data Generation," in *CHiME-7 Workshop*, 2023. (NVIDIA) [[Paper](https://arxiv.org/abs/2310.12371)]
 
 ## Personal VAD
 - "**Personal VAD**: Speaker-Conditioned Voice Activity Detection", in *Proc. Odyssey*, 2020. (Google) [[Paper](https://arxiv.org/abs/1908.04284)]
