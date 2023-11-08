@@ -264,6 +264,7 @@ If you discover any unnoticed documents, please open issues or pull requests (re
 - "Audio-Visual Speaker Diarization in the Framework of Multi-User Human-Robot Interaction", in *Proc. ICASSP*, 2023. [[Paper](https://ieeexplore.ieee.org/abstract/document/10096295)]
 - **STHG**: "Spatial-Temporal Heterogeneous Graph Learning for Advanced Audio-Visual Diarization, in *Proc. CVPR*, 2023. (Intel) [[Paper](https://arxiv.org/abs/2306.10608)]
 - "Speaker Diarization of Scripted Audiovisual Content," in *submitted ICASSP*, 2024. (Amazon) [[Paper](https://arxiv.org/abs/2308.02160)]
+- "Uncertainty-Guided End-to-End Audio-Visual Speaker Diarization for Far-Field Recordings," in *Proc. ACM MM*, 2023. [[Paper](https://dl.acm.org/doi/abs/10.1145/3581783.3612424)]
 
 
 ## Child-Adult
