@@ -292,7 +292,7 @@ If you discover any unnoticed documents, please open issues or pull requests (re
 
 ### VoxSRC-23 Track4
 [[Paper]()] [[Workshop](http://mm.kaist.ac.kr/datasets/voxceleb/voxsrc/interspeech2023.html)]
-- 1st: **DKU** [[Tech Report](https://arxiv.org/abs/2308.07595)] [[Slide](http://mm.kaist.ac.kr/datasets/voxceleb/voxsrc/data_workshop_2023/slides/dku_track4_slides.pdf)]) [[Video](http://mm.kaist.ac.kr/datasets/voxceleb/voxsrc/data_workshop_2023/videos/track4_dku.mp4)]
+- 1st: **DKU** [[Tech Report](https://arxiv.org/abs/2308.07595)] [[Slide](http://mm.kaist.ac.kr/datasets/voxceleb/voxsrc/data_workshop_2023/slides/dku_track4_slides.pdf)] [[Video](http://mm.kaist.ac.kr/datasets/voxceleb/voxsrc/data_workshop_2023/videos/track4_dku.mp4)]
 - 2nd: **KrispAI** [[Tech Report](http://mm.kaist.ac.kr/datasets/voxceleb/voxsrc/data_workshop_2023/reports/krisp_report.pdf)] [[Slide](http://mm.kaist.ac.kr/datasets/voxceleb/voxsrc/data_workshop_2023/slides/krispai_slides.pdf)] [[Video](http://mm.kaist.ac.kr/datasets/voxceleb/voxsrc/data_workshop_2023/videos/krispai.mp4)]
 - 3rd: **Pyannote** [[Tech Report](http://mm.kaist.ac.kr/datasets/voxceleb/voxsrc/data_workshop_2023/reports/pyannote_report.pdf)] [[Slide](http://mm.kaist.ac.kr/datasets/voxceleb/voxsrc/data_workshop_2023/slides/pyannote_slides.pdf)] [[Video](http://mm.kaist.ac.kr/datasets/voxceleb/voxsrc/data_workshop_2023/videos/pyannote_video.mp4)]
 - 4th: **GIST** [[Tech Report](https://arxiv.org/abs/2308.07788)]
