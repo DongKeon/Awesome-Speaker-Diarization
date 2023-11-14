@@ -62,6 +62,7 @@ If you discover any unnoticed documents, please open issues or pull requests (re
 - **EEND-NA**: “Neural Diarization with Non-Autoregressive Intermediate Attractors”, in *Proc. ICASSP,* 2023. (LINE)  [[Paper](https://arxiv.org/abs/2303.06806)]
 - **EEND-EDA-SpkAtt**: "Towrards End-to-end Speaker Diarzation in the Wild", in *Proc. ICASSP,* 2023. [[Paper](https://arxiv.org/abs/2211.01299)]
 - "**TOLD**: A Novel Two-Stage Overlap-Aware Framework for Speaker Diarization", in *Proc. ICASSP*, 2023. (Alibaba) [[Paper](https://arxiv.org/abs/2303.05397)] [[Code](https://github.com/alibaba-damo-academy/FunASR)]
+- "End-to-end neural speaker diarization with an iterative adaptive attractor estimation," in *Neural Networks, Elsevier*. [[Paper](https://www.sciencedirect.com/science/article/pii/S089360802300401X)]
 - "Improving End-to-End Neural Diarization Using Conversational Summary Representations", in *Proc. Interspeech*, 2023. [[Paper](https://arxiv.org/abs/2306.13863)]
 - "Self-Distillation into Self-Attention Heads for Improving Transformer-based End-to-End Neural Speaker Diarization", in *Proc. Interspeech*, 2023. (HU) [[Paper](https://www.isca-speech.org/archive/interspeech_2023/jeoung23_interspeech.html)]
 - "Powerset Multi-class Cross Entropy Loss for Neural Speaker Diarization", in *Proc. Interspeech*, 2023. (Pyannote) [[Paper](https://www.isca-speech.org/archive/interspeech_2023/plaquet23_interspeech.html)] [[Code](https://github.com/FrenchKrab/IS2023-powerset-diarization)]
@@ -179,6 +180,7 @@ If you discover any unnoticed documents, please open issues or pull requests (re
 - "Absolute decision corrupts absolutely: conservative online speaker diarisation", in *Proc. ICASSP*, 2023. (Naver) [[Paper](https://arxiv.org/abs/2211.04768)]
 - "A Reinforcement Learning Framework for Online Speaker Diarization", in *Under Review. NeruIPS*, 2023. (CU) [[Paper](https://arxiv.org/abs/2302.10924)]
 - **OTS-VAD**: "End-to-end Online Speaker Diarization with Target Speaker Tracking," in *Submitted IEEE/ACM TASLP,* 2023. (DKU) [[Paper](https://arxiv.org/abs/2310.08696)]
+- "Frame-wise streaming end-to-end speaker diarization with non-autoregressive self-attention-based attractors," in *Submitted to ICASSP,* 2024. (Hangzhou) [[Paper](https://arxiv.org/abs/2309.13916)] 
 
 ## Simulated Dataset
 - **Concat-and-sum**: “End-to-end neuarl speaker diarization with permuation-free objectives”, in *Proc. Interspeech*, 2019. [[Paper](https://arxiv.org/abs/1909.05952)]
@@ -225,6 +227,10 @@ If you discover any unnoticed documents, please open issues or pull requests (re
 - "Enhancing Speaker Diarization with Large Language Models: A Contextual Beam Search Approach,", in *Submitted to ICASSP*, 2024. (NVIDIA) [[Paper](https://arxiv.org/abs/2309.05248)]
 - **WEEND**: "Towards Word-Level End-to-End Neural Speaker Diarization with Auxiliary Network," in *Submitted to ICASSP*, 2024. (Google) [[Paper](https://arxiv.org/abs/2309.08489)]
 - "One model to rule them all ? Towards End-to-End Joint Speaker Diarization and Speech Recognition", in *Submitted to ICASSP*, 2024. (CMU) [[Paper](https://arxiv.org/abs/2310.01688)]
+- "Meeting Recognition with Continuous Speech Separation and Transcription-Supported Diarization," in *Submitted to ICASSP*, 2024. (PU) [[Paper](https://arxiv.org/abs/2309.16482)]
+  ### Speaker-attributed ASR
+  - "**SA-Paraformer**: Non-autoregressive End-to-End Speaker-Attributed ASR," in *Submitted to ICASSP*, 2024.(Alibaba) [[Paper](https://arxiv.org/abs/2310.04863)]
+  
 
 ## Multi-Tasking
 ### With Separation
