@@ -62,7 +62,7 @@ If you discover any unnoticed documents, please open issues or pull requests (re
 - **EEND-NA**: “Neural Diarization with Non-Autoregressive Intermediate Attractors”, in *Proc. ICASSP,* 2023. (LINE)  [[Paper](https://arxiv.org/abs/2303.06806)]
 - **EEND-EDA-SpkAtt**: "Towrards End-to-end Speaker Diarzation in the Wild", in *Proc. ICASSP,* 2023. [[Paper](https://arxiv.org/abs/2211.01299)]
 - "**TOLD**: A Novel Two-Stage Overlap-Aware Framework for Speaker Diarization", in *Proc. ICASSP*, 2023. (Alibaba) [[Paper](https://arxiv.org/abs/2303.05397)] [[Code](https://github.com/alibaba-damo-academy/FunASR)]
-- "End-to-end neural speaker diarization with an iterative adaptive attractor estimation," in *Neural Networks, Elsevier*. [[Paper](https://www.sciencedirect.com/science/article/pii/S089360802300401X)]
+- **EEND-IAAE**: "End-to-end neural speaker diarization with an iterative adaptive attractor estimation," in *Neural Networks, Elsevier*. [[Paper](https://www.sciencedirect.com/science/article/pii/S089360802300401X)]
 - "Improving End-to-End Neural Diarization Using Conversational Summary Representations", in *Proc. Interspeech*, 2023. [[Paper](https://arxiv.org/abs/2306.13863)]
 - "Self-Distillation into Self-Attention Heads for Improving Transformer-based End-to-End Neural Speaker Diarization", in *Proc. Interspeech*, 2023. (HU) [[Paper](https://www.isca-speech.org/archive/interspeech_2023/jeoung23_interspeech.html)]
 - "Powerset Multi-class Cross Entropy Loss for Neural Speaker Diarization", in *Proc. Interspeech*, 2023. (Pyannote) [[Paper](https://www.isca-speech.org/archive/interspeech_2023/plaquet23_interspeech.html)] [[Code](https://github.com/FrenchKrab/IS2023-powerset-diarization)]
