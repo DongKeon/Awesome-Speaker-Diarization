@@ -143,7 +143,7 @@ If you discover any unnoticed documents, please open issues or pull requests (re
 - "Build a SRE Challenge System: Lessons from VoxSRC 2022 and CNSRC 2022," in *Proc. Interspeech*, 2023. (SJTU) [[Paper](https://www.isca-speech.org/archive/interspeech_2023/chen23m_interspeech.html)]
 - **RecXi** "Disentangling Voice and Content with Self-Supervision for Speaker Recognition," in *Proc. NeurIPS,* 2023. (A*STAR) [[Paper](https://arxiv.org/abs/2310.01128)]
 - "Rethinking Session Variability: Leveraging Session Embeddings for Session Robustness in Speaker Verification," in *Submitted ICASSP*, 2024. (Naver) [[Paper](https://arxiv.org/abs/2309.14741)]
-- "Leveraging In-the-Wild Data for Effective Self-Supervised Pretraining in Speaker Recognition," in *Submitted ICASSP*, 2024. (CHUK) [[Paper](https://arxiv.org/abs/2309.11730)]
+- "Leveraging In-the-Wild Data for Effective Self-Supervised Pretraining in Speaker Recognition," in *Submitted ICASSP*, 2024. (CUHK) [[Paper](https://arxiv.org/abs/2309.11730)]
 
 ## From other source Embedding
 - "End-to-End Spoken Language Diarization with Wav2vec Embeddings", in *Proc. Interspeech*, 2023. [[Paper](https://www.isca-speech.org/archive/interspeech_2023/mishra23_interspeech.html)]
@@ -238,7 +238,7 @@ If you discover any unnoticed documents, please open issues or pull requests (re
 - **TS-SEP**: Joint Diarization and Separation Conditioned on Estimated Speaker Embeddings", in *UnderReview IEEE/ACM TASLP*, 2023. [[Paper](https://arxiv.org/abs/2303.03849)]
 
 ### With Target Speaker Extraction
-- "**USED**: Universal Speaker Extraction and Diarization," in *submitted to ICASSP*, 2024. (CHUK) [[Paper](https://arxiv.org/abs/2309.10674)] [[Demo](https://ajyy.github.io/demo/USED/)] [[Util](https://github.com/msinanyildirim/USED-splits)]
+- "**USED**: Universal Speaker Extraction and Diarization," in *submitted to ICASSP*, 2024. (CUHK) [[Paper](https://arxiv.org/abs/2309.10674)] [[Demo](https://ajyy.github.io/demo/USED/)] [[Util](https://github.com/msinanyildirim/USED-splits)]
 
 ### With Emotion
 - "**Speech Emotion Diarization**: Which Emotion Appears When?," in *Proc. ASRU,* 2023. (Zaion) [[Paper](https://arxiv.org/abs/2306.12991)]
