@@ -68,7 +68,8 @@ If you discover any unnoticed documents, please open issues or pull requests (re
 - "Powerset Multi-class Cross Entropy Loss for Neural Speaker Diarization", in *Proc. Interspeech*, 2023. (Pyannote) [[Paper](https://www.isca-speech.org/archive/interspeech_2023/plaquet23_interspeech.html)] [[Code](https://github.com/FrenchKrab/IS2023-powerset-diarization)]
 - "End-to-End Neural Speaker Diarization with Absolute Speaker Loss", in  *Proc. Interspeech*, 2023. (Pyannote) [[Paper](https://www.isca-speech.org/archive/interspeech_2023/wang23g_interspeech.html)]
 - "Blueprint Separable Subsampling and Aggregate Feature Conformer-Based End-to-End Neural Diarization", in *Electronics*, 2023. [[Paper](https://www.mdpi.com/2079-9292/12/19/4118)]
-- **EEND-TA**: "Transformer Attractors for Robust and Efficient End-to-End Neural Diarization," in *Proc. ASRU,* 2023. [[Paper](https://arxiv.org/abs/2312.06253)]
+- **EEND-TA**: "Transformer Attractors for Robust and Efficient End-to-End Neural Diarization," in *Proc. ASRU,* 2023. (Fano Lab) [[Paper](https://arxiv.org/abs/2312.06253)]
+- "Robust End-to-End Diarization with Domain Adaptive Training and Multi-Task Learning," in *Proc. ASRU,* 2023. (Fano Lab) [[Paper](https://arxiv.org/abs/2312.07136)]
 - "NTT speaker diarization system for CHiME-7: multi-domain, multi-microphone End-to-end and vector clustering diarization," in *Submitted to ICASSP*, 2024. (NTT) [[Paper](https://arxiv.org/abs/2309.12656)]
 - "**DiaPer**: End-to-End Neural Diarization with Perceiver-Based Attractors," in *Submittted to IEEE/ACM TASLP,* 2024. (BUT) [[Paper](https://arxiv.org/abs/2312.04324)]
 - "**EEND-DEMUX**: End-to-End Neural Speaker Diarization via Demultiplexed Speaker Embeddings," in *Submitted to IEEE Signal Processing Letters (SPL),* 2024. (SNU) [[Paper](https://arxiv.org/abs/2312.06065)]
@@ -219,7 +220,6 @@ If you discover any unnoticed documents, please open issues or pull requests (re
 
 ## Semi-Supervised
 - "Active Learning Based Constrained Clustering For Speaker Diarization", in *IEEE/ACM TASLP,* 2017. (UT) [[Paper](https://ieeexplore.ieee.org/abstract/document/8030331)]
-- "Semi-supervised multi-channel speaker diarization with cross-channel attention", in *UnderReview Proc. ASRU,* 2023. (USTC) [[Paper](https://arxiv.org/abs/2307.08688)]
 
 ## With ASR
 - "Transcribe-to-Diarize: Neural Speaker Diarization for Unlimited Number of Speakers using End-to-End Speaker-Attributed ASR," in *Proc. ICASSP*, 2022. [[Paper](https://arxiv.org/abs/2110.03151)]
@@ -252,7 +252,9 @@ If you discover any unnoticed documents, please open issues or pull requests (re
 ## Multi-Channel
 - "Multi-Channel End-to-End Neural Diarization with Distributed Microphones", in *Proc. ICASSP*, 2022. (Hitachi) [[Paper](https://arxiv.org/abs/2110.04694)]
 - "Multi-Channel Speaker Diarization Using Spatial Features for Meetings", in *Proc. ICASSP*, 2022. (Tencent) [[Paper](https://ieeexplore.ieee.org/document/9747343)]
+- "Semi-supervised multi-channel speaker diarization with cross-channel attention", in *Proc. ASRU,* 2023. (USTC) [[Paper](https://arxiv.org/abs/2307.08688)]
 - "**UniX-Encoder**: A Universal X-Channel Speech Encoder for Ad-Hoc Microphone Array Speech Processing," in *Submitted to ICASSP*, 2024. (JHU, Tencent) [[Paper](https://arxiv.org/abs/2310.16367)]
+
 
 
 ## Measurement
