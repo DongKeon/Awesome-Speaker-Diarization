@@ -77,6 +77,7 @@ If you discover any unnoticed documents, please open issues or pull requests (re
 
 ## Using Target Speaker Embedding
 - **TS-VAD**: "Target-Speaker Voice Activity Detection: a Novel Approach for Multi-Speaker Diarization in a Dinner Party Scenario", in *Proc. Interspeech*, 2020. [[Paper](https://arxiv.org/abs/2005.07272)] [[Code](https://github.com/dodohow1011/TS-VAD)] [[PPT](https://desh2608.github.io/static/ppt/ts-vad.pdf)]
+- “The STC system for the CHiME-6 challenge,” in *CHiME Workshop*, 2020. [[Paper](https://www.isca-speech.org/archive/chime_2020/medennikov20_chime.html)]
 - **MTEAD**: "Multi-target Filter and Detector for Unknown-number Speaker Diarization", in *IEEE SPL*, 2022. [[Paper](https://arxiv.org/abs/2203.16007)]
 - **SOND**: "Speaker Overlap-aware Neural Diarization for Multi-party Meeting Analysis", in *Proc. EMNLP*, 2022. (Alibaba) [[Paper](https://arxiv.org/abs/2211.10243)] [[Code](https://github.com/alibaba-damo-academy/FunASR)]
 - **EDA-TS-VAD**: “Target Speaker Voice Activity Detection with Transformers and Its Integration with End-to-End Neural Diarization”, in *Proc. ICASSP*, 2023. (Microsoft) [[Paper](https://arxiv.org/abs/2208.13085)]
@@ -237,6 +238,7 @@ If you discover any unnoticed documents, please open issues or pull requests (re
 
 ## Multi-Tasking
 ### With Separation
+- "Integration of speech separation, diarization, and recognition for multi-speaker meetings: System description, comparison, and analysis," in *Proc. SLT,* 2021. (JHU) [[Paper](https://arxiv.org/abs/2011.02014)]
 - **EEND-SS**: "Joint End-to-End Neural Speaker Diarization and Speech Separation for Flexible Number of Speakers”, in *Proc. SLT,* 2022. (CMU) [[Paper](https://arxiv.org/abs/2203.17068)]
 - **TS-SEP**: Joint Diarization and Separation Conditioned on Estimated Speaker Embeddings", in *UnderReview IEEE/ACM TASLP*, 2023. [[Paper](https://arxiv.org/abs/2303.03849)]
 
