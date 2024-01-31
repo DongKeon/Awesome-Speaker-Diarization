@@ -110,7 +110,7 @@ If you discover any unnoticed documents, please open issues or pull requests (re
 - **SCALE**: "Spectral Clustering-aware Learning of Embeddings for Speaker Diarisation", in *Proc. ICASSP*, 2023. (CAM) [[Paper](https://arxiv.org/abs/2210.13576)]
 - **SHARC**: "Supervised Hierarchical Clustering using Graph Neural Networks for Speaker Diarization", in *Proc. ICASSP*, 2023. (IISC) [[Paper](https://arxiv.org/abs/2302.12716)]
 - **CDGCN**: "Community Detection Graph Convolutional Network for Overlap-Aware Speaker Diarization," in *Proc. ICASSP*, 2023. (XMU) [[Paper](https://arxiv.org/abs/2306.14530)]
-- **Pyannote.Audio 2.1**: "Speaker Diarization Pipeline: Principle, Benchmark and Recipe", in *Proc. Interspeech*, 2023. (CNRS) [[Paper](https://www.isca-speech.org/archive/interspeech_2023/bredin23_interspeech.html)]
+- "**Pyannote.Audio 2.1**: Speaker Diarization Pipeline: Principle, Benchmark and Recipe", in *Proc. Interspeech*, 2023. (CNRS) [[Paper](https://www.isca-speech.org/archive/interspeech_2023/bredin23_interspeech.html)]
 - **GADEC**: "Graph attention-based deep embedded clustering for speaker diarization,", in *Speech Communication*, 2023. (NJUPT) [[Paper](https://www.sciencedirect.com/science/article/pii/S0167639323001255)]
 - "Overlap-aware End-to-End Supervised Hierarchical Graph Clustering for Speaker Diarization," in *submitted to IEEE/ACM TASLP*, 2024. [[Paper](https://arxiv.org/abs/2401.12850)]
 
