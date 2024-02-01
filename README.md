@@ -227,6 +227,7 @@ If you discover any unnoticed documents, please open issues or pull requests (re
 
 ## Dataset
 - **Voxconverse**: "Spot the conversation: speaker diarisation in the wild", in *Proc. Interspeech*, 2020. (VGG, Naver) [[Paper](https://arxiv.org/abs/2007.01216)] [[Code](https://github.com/joonson/voxconverse)] [[Dataset](https://www.robots.ox.ac.uk/~vgg/data/voxconverse/)]
+- "LibriMix: An Open-Source Dataset for Generalizable Speech Separation," in *arXiv:2005.11262*, 2020. [[Paper](https://arxiv.org/abs/2005.11262)] [[Code](https://github.com/JorisCos/LibriMix)]
 - **Ego4D**: " Around the World in 3,000 Hours of Egocentric Video," in *Proc. CVPR*, 2022. (Meta) [[Paper](https://arxiv.org/abs/2110.07058)] [[Code](https://github.com/EGO4D/audio-visual)] [[Page](https://ego4d-data.org/docs/benchmarks/av-diarization/)]
 - **AliMeeting**: "Summary On The ICASSP 2022 Multi-Channel Multi-Party Meeting Transcription Grand Challenge," in *Proc. ICASSP,* 2022. (Alibaba) [[Paper](https://arxiv.org/abs/2202.03647)] [[Dataset](https://www.openslr.org/119)] [[Code](https://github.com/yufan-aslp/AliMeeting)]
 - "**VoxBlink**: X-Large Speaker Verification Dataset on Camera", in *Proc. ICASSP,* 2024. [[Paper](https://arxiv.org/abs/2308.07056)] [[Dataset](https://voxblink.github.io/)]
