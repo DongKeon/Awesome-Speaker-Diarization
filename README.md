@@ -11,14 +11,14 @@ If you discover any unnoticed documents, please open issues or pull requests (re
 - [EEND (End-to-End Neural Diarization)-based](#eend-end-to-end-neural-diarization-based)
 - [Using Target Speaker Embedding](#using-target-speaker-embedding)
 - [Clustering-based](#clustering-based)
-- [VBx](#varational-bayes-hmm)
+- [VBx](#varational-bayes-and-hmm)
 - [Post-Processing](#post-processing)
 - [Embedding](#embedding)
 - [Scoring](#scoring)
 - [Online](#online)
 - [Simulated Dataset](#simulated-dataset)
 - [Self-Supervised](#self-supervised)
-- [Multitask](#multitask)
+- [Multitask](#multi-tasking)
   - [With Separation](#with-separation)
   - [With ASR](#with-asr)
 - [Multi-Channel](#multi-channel)
@@ -52,7 +52,7 @@ If you discover any unnoticed documents, please open issues or pull requests (re
 - "Robust End-to-End Speaker Diarization with Conformer and Additive Margin Penalty," in *Proc. Interspeech*, 2021. [[Paper](https://www.isca-archive.org/archive/interspeech_2021/leung21_interspeech.html)]
 - **EEND-GLA (1)**: "Towards Neural Diarization for Unlimited Numbers of Speakers Using Global and Local Attractors", in *Proc. ASRU*, 2021. (Hitachi) [[Paper](https://arxiv.org/abs/2107.01545)] [[Reivew](https://velog.io/@fbdp1202/EEND-EDA-Clustering-%EB%A6%AC%EB%B7%B0-Towards-Neural-Diarization-for-Unlimited-Numbers-of-Speakers-using-Global-and-Local-Attractors)] 
 - **EEND-GLA (2)**: "Online Neural Diarization of Unlimited Numbers of Speakers Using Global and Local Attractors", in *IEEE/ACM TASLP,* 2022. (Hitachi) [[Paper](https://arxiv.org/abs/2206.02432)]
-- **DIVE**: "DIVE: End-to-end Speech Diarization via Iterative Speaker Embedding", in *Proc. ICASSP*, 2022. (Google) [[Paper](https://arxiv.org/abs/2105.13802)]
+- "**DIVE**: End-to-end Speech Diarization via Iterative Speaker Embedding", in *Proc. ICASSP*, 2022. (Google) [[Paper](https://arxiv.org/abs/2105.13802)]
 - **RX-EEND**: “Auxiliary Loss of Transformer with Residual Connection for End-to-End Speaker Diarization”, in *Proc. ICASSP,* 2022. (GIST) [[Paper](https://arxiv.org/abs/2110.07116)] [[Review](https://velog.io/@fbdp1202/RX-EEND-%EB%A6%AC%EB%B7%B0-Auxiliary-Loss-of-Transformer-with-Residual-connection-For-End-to-end-Speaker-Diarization)]
 - "End-to-end speaker diarization with transformer", in *Proc. arXiv*, 2022. [[Paper](https://arxiv.org/abs/2112.07463)]
 - **EEND-VC-iGMM**: "Tight integration of neural and clustering-based diarization through deep unfolding of infinite Gaussian mixture model", in *Proc. ICASSP*, 2022. (NTT) [[Paper](https://arxiv.org/abs/2202.06524)]
@@ -115,7 +115,7 @@ If you discover any unnoticed documents, please open issues or pull requests (re
 - **GADEC**: "Graph attention-based deep embedded clustering for speaker diarization,", in *Speech Communication*, 2023. (NJUPT) [[Paper](https://www.sciencedirect.com/science/article/pii/S0167639323001255)]
 - "Overlap-aware End-to-End Supervised Hierarchical Graph Clustering for Speaker Diarization," in *submitted to IEEE/ACM TASLP*, 2024. [[Paper](https://arxiv.org/abs/2401.12850)]
 
-## Varational Bayes & HMM 
+## Varational Bayes and HMM 
   ### VBx Series
   - "Speaker Diarization based on Bayesian HMM with Eigenvoice Priors", in *Proc. Odyssey*, 2018. (BUT) [[Paper](https://www.isca-speech.org/archive/odyssey_2018/diez18_odyssey.html)]
   - "VB-HMM Speaker Diarization with Enhanced and Refined Segment Representation", in *Proc. Odyssey*, 2018. (Tsinghua) [[Paper](https://www.isca-speech.org/archive_v0/Odyssey_2018/abstracts/53.html)]
@@ -273,6 +273,7 @@ If you discover any unnoticed documents, please open issues or pull requests (re
 ## Multi-Channel
 - "Multi-Channel End-to-End Neural Diarization with Distributed Microphones", in *Proc. ICASSP*, 2022. (Hitachi) [[Paper](https://arxiv.org/abs/2110.04694)]
 - "Multi-Channel Speaker Diarization Using Spatial Features for Meetings", in *Proc. ICASSP*, 2022. (Tencent) [[Paper](https://ieeexplore.ieee.org/document/9747343)]
+- "Mutual Learning of Single- and Multi-Channel End-to-End Neural Diarization," in *Proc. IEEE SLT*, 2023. (Hitachi) [[Paper](https://arxiv.org/abs/2210.03459)]
 - "Semi-supervised multi-channel speaker diarization with cross-channel attention", in *Proc. ASRU,* 2023. (USTC) [[Paper](https://arxiv.org/abs/2307.08688)]
 - "**UniX-Encoder**: A Universal X-Channel Speech Encoder for Ad-Hoc Microphone Array Speech Processing," in *Submitted to ICASSP*, 2024. (JHU, Tencent) [[Paper](https://arxiv.org/abs/2310.16367)]
 
