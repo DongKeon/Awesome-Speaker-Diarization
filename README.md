@@ -73,7 +73,7 @@ If you discover any unnoticed documents, please open issues or pull requests (re
 - **EEND-TA**: "Transformer Attractors for Robust and Efficient End-to-End Neural Diarization," in *Proc. ASRU,* 2023. (Fano Lab) [[Paper](https://arxiv.org/abs/2312.06253)]
 - "Robust End-to-End Diarization with Domain Adaptive Training and Multi-Task Learning," in *Proc. ASRU,* 2023. (Fano Lab) [[Paper](https://arxiv.org/abs/2312.07136)]
 - "NTT speaker diarization system for CHiME-7: multi-domain, multi-microphone End-to-end and vector clustering diarization," in *Proc. ICASSP*, 2024. (NTT) [[Paper](https://arxiv.org/abs/2309.12656)]
-- "**DiaPer**: End-to-End Neural Diarization with Perceiver-Based Attractors," in *Submittted to IEEE/ACM TASLP,* 2024. (BUT) [[Paper](https://arxiv.org/abs/2312.04324)]
+- "**DiaPer**: End-to-End Neural Diarization with Perceiver-Based Attractors," in *Submittted to IEEE/ACM TASLP,* 2024. (BUT) [[Paper](https://arxiv.org/abs/2312.04324)] [[Code](https://github.com/BUTSpeechFIT/DiaPer)] [[Review](https://puzzle-deal-923.notion.site/2024-DiaPer-Submitted-TASLP-83fbbd4b8e8645d7a1fe7a08069334ea?pvs=4)]
 - "**EEND-DEMUX**: End-to-End Neural Speaker Diarization via Demultiplexed Speaker Embeddings," in *Submitted to IEEE SPL,* 2024. (SNU) [[Paper](https://arxiv.org/abs/2312.06065)] [[Review](https://puzzle-deal-923.notion.site/2024-EEND-DEMUX-Submitted-SPL-4bfa79521cc74a78a14e5fc148a7c9c1?pvs=4)]
 - "**EEND-M2F**: Masked-attention mask transformers for speaker diarization," in *arXiv:2401.12600,* 2024. (Fano Lab) [[Paper](https://arxiv.org/abs/2401.12600)]
 
