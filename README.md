@@ -78,6 +78,7 @@ If you discover any unnoticed documents, please open issues or pull requests (re
 - "**DiaPer**: End-to-End Neural Diarization with Perceiver-Based Attractors," in *Submittted to IEEE/ACM TASLP,* 2024. (BUT) [[Paper](https://arxiv.org/abs/2312.04324)] [[Code](https://github.com/BUTSpeechFIT/DiaPer)] [[Review](https://puzzle-deal-923.notion.site/2024-DiaPer-Submitted-TASLP-83fbbd4b8e8645d7a1fe7a08069334ea?pvs=4)]
 - "**EEND-DEMUX**: End-to-End Neural Speaker Diarization via Demultiplexed Speaker Embeddings," in *Submitted to IEEE SPL,* 2024. (SNU) [[Paper](https://arxiv.org/abs/2312.06065)] [[Review](https://puzzle-deal-923.notion.site/2024-EEND-DEMUX-Submitted-SPL-4bfa79521cc74a78a14e5fc148a7c9c1?pvs=4)]
 - "**EEND-M2F**: Masked-attention mask transformers for speaker diarization," in *arXiv:2401.12600,* 2024. (Fano Lab) [[Paper](https://arxiv.org/abs/2401.12600)]
+- "Do End-to-End Neural Diarization Attractors Need to Encode Speaker Characteristic Information?," in *Submitted Proc. Odyssey*, 2024. [[Paper](https://arxiv.org/abs/2402.19325)]
 
 ## Using Target Speaker Embedding
 - **TS-VAD**: "Target-Speaker Voice Activity Detection: a Novel Approach for Multi-Speaker Diarization in a Dinner Party Scenario", in *Proc. Interspeech*, 2020. [[Paper](https://arxiv.org/abs/2005.07272)] [[Code](https://github.com/dodohow1011/TS-VAD)] [[PPT](https://desh2608.github.io/static/ppt/ts-vad.pdf)]
@@ -265,7 +266,8 @@ If you discover any unnoticed documents, please open issues or pull requests (re
 ### With Separation
 - "Integration of speech separation, diarization, and recognition for multi-speaker meetings: System description, comparison, and analysis," in *Proc. SLT,* 2021. (JHU) [[Paper](https://arxiv.org/abs/2011.02014)]
 - **EEND-SS**: "Joint End-to-End Neural Speaker Diarization and Speech Separation for Flexible Number of Speakers”, in *Proc. SLT,* 2022. (CMU) [[Paper](https://arxiv.org/abs/2203.17068)]
-- **TS-SEP**: Joint Diarization and Separation Conditioned on Estimated Speaker Embeddings", in *UnderReview IEEE/ACM TASLP*, 2023. [[Paper](https://arxiv.org/abs/2303.03849)]
+- "**TS-SEP**: Joint Diarization and Separation Conditioned on Estimated Speaker Embeddings", in *UnderReview IEEE/ACM TASLP*, 2023. [[Paper](https://arxiv.org/abs/2303.03849)]
+- "**PixIT**: Joint Training of Speaker Diarization and Speech Separation from Real-world Multi-speaker Recordings," in *Submitted Proc. Odyssey*, 2024. [[Paper](https://arxiv.org/abs/2403.02288)]
 
 ### With Emotion
 - "**Speech Emotion Diarization**: Which Emotion Appears When?," in *Proc. ASRU,* 2023. (Zaion) [[Paper](https://arxiv.org/abs/2306.12991)]
@@ -279,6 +281,7 @@ If you discover any unnoticed documents, please open issues or pull requests (re
 - "Mutual Learning of Single- and Multi-Channel End-to-End Neural Diarization," in *Proc. IEEE SLT*, 2023. (Hitachi) [[Paper](https://arxiv.org/abs/2210.03459)]
 - "Semi-supervised multi-channel speaker diarization with cross-channel attention", in *Proc. ASRU,* 2023. (USTC) [[Paper](https://arxiv.org/abs/2307.08688)]
 - "**UniX-Encoder**: A Universal X-Channel Speech Encoder for Ad-Hoc Microphone Array Speech Processing," in *Submitted to ICASSP*, 2024. (JHU, Tencent) [[Paper](https://arxiv.org/abs/2310.16367)]
+- "Channel-Combination Algorithms for Robust Distant Voice Activity and Overlapped Speech Detection," in *IEEE/ACM TASLP,* 2024. [[Paper](https://arxiv.org/abs/2402.08312)]
 
 
 
