@@ -254,7 +254,7 @@ If you discover any unnoticed documents, please open issues or pull requests (re
 - "Speaker Diarization for ASR Output with T-vectors: A Sequence Classification Approach", in *Proc. Interspeech*, 2023. [[Paper](https://www.isca-speech.org/archive/interspeech_2023/yousefi23_interspeech.html)]
 - "Lexical Speaker Error Correction: Leveraging Language Models for Speaker Diarization Error Correction", in *Proc. Interspeech*, 2023. (Amazon) [[Paper](https://arxiv.org/abs/2306.09313)]
 - "Enhancing Speaker Diarization with Large Language Models: A Contextual Beam Search Approach,", in *Proc. ICASSP*, 2024. (NVIDIA) [[Paper](https://arxiv.org/abs/2309.05248)]
-- **WEEND**: "Towards Word-Level End-to-End Neural Speaker Diarization with Auxiliary Network," in *Submitted to ICASSP*, 2024. (Google) [[Paper](https://arxiv.org/abs/2309.08489)]
+- **WEEND**: "Towards Word-Level End-to-End Neural Speaker Diarization with Auxiliary Network," in *Submitted to ICASSP*, 2024. (Google) [[Paper](https://arxiv.org/abs/2309.08489)] [[Supplementary](https://github.com/google/speaker-id/tree/master/publications/WEEND)]
 - "One model to rule them all ? Towards End-to-End Joint Speaker Diarization and Speech Recognition", in *Proc. ICASSP*, 2024. (CMU) [[Paper](https://arxiv.org/abs/2310.01688)]
 - "Meeting Recognition with Continuous Speech Separation and Transcription-Supported Diarization," in *Submitted to ICASSP*, 2024. (PU) [[Paper](https://arxiv.org/abs/2309.16482)]
   ### Speaker-attributed ASR
@@ -295,7 +295,7 @@ If you discover any unnoticed documents, please open issues or pull requests (re
 - "Aligning Speakers: Evaluating and Visualizing Text-based Diarization Using Efficient Multiple Sequence Alignment,", in *Proc. ICTAI*, 2023. [[Paper](https://arxiv.org/abs/2309.07677)]
 - "**DiariST**: Streaming Speech Translation with Speaker Diarization," in *Proc. ICASSP*, 2024. (Microsoft) [[Paper](https://arxiv.org/abs/2309.08007)] [[Code](https://github.com/Mu-Y/DiariST)]
 - **JPCP:** "Improving Speaker Diarization using Semantic Information: Joint Pairwise Constraints Propagation," in *Submitted to ICASSP*, 2024. (Alibaba) [[Paper](https://arxiv.org/abs/2309.10456)]
-- "**DiarizationLM**: Speaker Diarization Post-Processing with Large Language Models," in *Submitted to ICLR*, 2024. (Google) [[Paper](https://arxiv.org/abs/2401.03506)]
+- "**DiarizationLM**: Speaker Diarization Post-Processing with Large Language Models," in *Submitted to ICLR*, 2024. (Google) [[Paper](https://arxiv.org/abs/2401.03506)] [[Code](https://github.com/google/speaker-id/tree/master/DiarizationLM)]
 
 ### With Vision
 - "Who said that?: Audio-visual speaker diarisation of real-world meetings", in *Proc. Interspeech*, 2019. (Naver) [[Paper](https://arxiv.org/abs/1906.10042)]
