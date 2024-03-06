@@ -206,7 +206,7 @@ If you discover any unnoticed documents, please open issues or pull requests (re
 - "Absolute decision corrupts absolutely: conservative online speaker diarisation", in *Proc. ICASSP*, 2023. (Naver) [[Paper](https://arxiv.org/abs/2211.04768)]
 - "A Reinforcement Learning Framework for Online Speaker Diarization", in *Under Review. NeruIPS*, 2023. (CU) [[Paper](https://arxiv.org/abs/2302.10924)]
 - **OTS-VAD**: "End-to-end Online Speaker Diarization with Target Speaker Tracking," in *Submitted IEEE/ACM TASLP,* 2023. (DKU) [[Paper](https://arxiv.org/abs/2310.08696)]
-- "Frame-wise streaming end-to-end speaker diarization with non-autoregressive self-attention-based attractors," in *Proc. ICASSP,* 2024. (Hangzhou) [[Paper](https://arxiv.org/abs/2309.13916)]
+- **FS-EEND**: "Frame-wise streaming end-to-end speaker diarization with non-autoregressive self-attention-based attractors," in *Proc. ICASSP,* 2024. (Hangzhou) [[Paper](https://arxiv.org/abs/2309.13916)] [[Code](https://github.com/Audio-WestlakeU/FS-EEND)]
 - "Online speaker diarization of meetings guided by speech separation," in *Proc. ICASSP,* 2024. (LTCI) [[Paper](https://browse.arxiv.org/abs/2402.00067)] [[Code](https://github.com/egruttadauria98/SSpaVAlDo)]
 - "Interrelate Training and Clustering for Online Speaker Diarization," in *IEEE/ACM TASLP,* 2024. [[Paper](https://ieeexplore.ieee.org/abstract/document/10418572)]
 
