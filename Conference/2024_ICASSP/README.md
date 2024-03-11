@@ -9,7 +9,7 @@ ICASSP 2024 Papers: A research papers related to speaker diarization from the [*
 <p>
 
 ### 🔍 [Paper Search Link](https://cmsworkshops.com/ICASSP2024/search.php?show=search)
-### 📃 [Total le](https://cmsworkshops.com/ICASSP2024/technical_program.php)
+### 📃 [Total Program](https://cmsworkshops.com/ICASSP2024/technical_program.php)
 
 # 🗓️ Schedule
 
