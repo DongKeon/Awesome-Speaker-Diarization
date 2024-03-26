@@ -109,14 +109,13 @@ If you discover any unnoticed documents, please open issues or pull requests (re
 ## Target Speech Diarization 
 - **PTSD**: "Prompt-driven Target Speech Diarization," in *Proc. ICASSP*, 2024. (NUS) [[Paper](https://arxiv.org/abs/2310.14823)]
 
-## With Target Speaker Extraction
-- "**USED**: Universal Speaker Extraction and Diarization," in *submitted to ICASSP*, 2024. (CUHK) [[Paper](https://arxiv.org/abs/2309.10674)] [[Demo](https://ajyy.github.io/demo/USED/)] [[Util](https://github.com/msinanyildirim/USED-splits)]
-- "Continuous Target Speech Extraction: Enhancing Personalized Diarization and Extraction on Complex Recordings," in *arXiv:2401.15993*, 2024. (Tencent) [[Paper](https://arxiv.org/abs/2401.15993)] [[Demo](https://herbhezhao.github.io/Continuous-Target-Speech-Extraction/)]
 ---
-## With Separation
-- "Integration of speech separation, diarization, and recognition for multi-speaker meetings: System description, comparison, and analysis," in *Proc. SLT,* 2021. (JHU) [[Paper](https://arxiv.org/abs/2011.02014)] [[Blog](https://desh2608.github.io/pages/jsalt/)]
-- **EEND-SS**: "Joint End-to-End Neural Speaker Diarization and Speech Separation for Flexible Number of Speakers”, in *Proc. SLT,* 2022. (CMU) [[Paper](https://arxiv.org/abs/2203.17068)]
+## With Separation or Target Speaker Extraction
+- "Integration of speech separation, diarization, and recognition for multi-speaker meetings: System description, comparison, and analysis," in *Proc. SLT,* 2021. (JHU) [[Paper](https://arxiv.org/abs/2011.02014)] [[Blog](https://desh2608.github.io/pages/jsalt/)] [[Review](https://puzzle-deal-923.notion.site/Integration-of-speech-separation-diarization-and-recognition-for-multi-speaker-meetings-System-de-f1d2574672834743a94c152b536d78b6?pvs=4)]
+- **EEND-SS**: "Joint End-to-End Neural Speaker Diarization and Speech Separation for Flexible Number of Speakers”, in *Proc. SLT,* 2022. (CMU) [[Paper](https://arxiv.org/abs/2203.17068)] [[Review](https://puzzle-deal-923.notion.site/EEND-SS-Joint-End-to-End-Neural-Speaker-Diarization-and-Speech-Separation-for-Flexible-Number-of-Sp-32a6a76f796341ca972b3959c1b7311d?pvs=4)]
 - "**TS-SEP**: Joint Diarization and Separation Conditioned on Estimated Speaker Embeddings", in *IEEE/ACM TASLP*, 2024. [[Paper](https://arxiv.org/abs/2303.03849)]
+- "**USED**: Universal Speaker Extraction and Diarization," in *submitted to ICASSP*, 2024. (CUHK) [[Paper](https://arxiv.org/abs/2309.10674)] [[Demo](https://ajyy.github.io/demo/USED/)] [[Util](https://github.com/msinanyildirim/USED-splits)] [[Review](https://puzzle-deal-923.notion.site/USED-Universal-Speaker-Extraction-and-Diarization-dcaf0e22ec334286b188ab5561bdbd27?pvs=4)]
+- "Continuous Target Speech Extraction: Enhancing Personalized Diarization and Extraction on Complex Recordings," in *arXiv:2401.15993*, 2024. (Tencent) [[Paper](https://arxiv.org/abs/2401.15993)] [[Demo](https://herbhezhao.github.io/Continuous-Target-Speech-Extraction/)]
 - "**PixIT**: Joint Training of Speaker Diarization and Speech Separation from Real-world Multi-speaker Recordings," in *Submitted Proc. Odyssey*, 2024. [[Paper](https://arxiv.org/abs/2403.02288)] [[Code(Not yet)](https://github.com/joonaskalda/PixIT)]
 - **MC-EEND**: "Multi-channel Conversational Speaker Separation via Neural Diarization," in *Submitted to IEEE/ACM TASLP,* 2024. (OSU) [[Paper](https://arxiv.org/abs/2311.08630)]
 ---
