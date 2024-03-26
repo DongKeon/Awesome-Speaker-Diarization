@@ -114,10 +114,11 @@ If you discover any unnoticed documents, please open issues or pull requests (re
 - "Continuous Target Speech Extraction: Enhancing Personalized Diarization and Extraction on Complex Recordings," in *arXiv:2401.15993*, 2024. (Tencent) [[Paper](https://arxiv.org/abs/2401.15993)] [[Demo](https://herbhezhao.github.io/Continuous-Target-Speech-Extraction/)]
 ---
 ## With Separation
-- "Integration of speech separation, diarization, and recognition for multi-speaker meetings: System description, comparison, and analysis," in *Proc. SLT,* 2021. (JHU) [[Paper](https://arxiv.org/abs/2011.02014)]
+- "Integration of speech separation, diarization, and recognition for multi-speaker meetings: System description, comparison, and analysis," in *Proc. SLT,* 2021. (JHU) [[Paper](https://arxiv.org/abs/2011.02014)] [[Blog](https://desh2608.github.io/pages/jsalt/)]
 - **EEND-SS**: "Joint End-to-End Neural Speaker Diarization and Speech Separation for Flexible Number of Speakers”, in *Proc. SLT,* 2022. (CMU) [[Paper](https://arxiv.org/abs/2203.17068)]
 - "**TS-SEP**: Joint Diarization and Separation Conditioned on Estimated Speaker Embeddings", in *IEEE/ACM TASLP*, 2024. [[Paper](https://arxiv.org/abs/2303.03849)]
-- "**PixIT**: Joint Training of Speaker Diarization and Speech Separation from Real-world Multi-speaker Recordings," in *Submitted Proc. Odyssey*, 2024. [[Paper](https://arxiv.org/abs/2403.02288)]
+- "**PixIT**: Joint Training of Speaker Diarization and Speech Separation from Real-world Multi-speaker Recordings," in *Submitted Proc. Odyssey*, 2024. [[Paper](https://arxiv.org/abs/2403.02288)] [[Code(Not yet)](https://github.com/joonaskalda/PixIT)]
+- **MC-EEND**: "Multi-channel Conversational Speaker Separation via Neural Diarization," in *Submitted to IEEE/ACM TASLP,* 2024. (OSU) [[Paper](https://arxiv.org/abs/2311.08630)]
 ---
 ## Multi-Channel
 - "Multi-Channel End-to-End Neural Diarization with Distributed Microphones", in *Proc. ICASSP*, 2022. (Hitachi) [[Paper](https://arxiv.org/abs/2110.04694)]
@@ -127,6 +128,7 @@ If you discover any unnoticed documents, please open issues or pull requests (re
 - "**UniX-Encoder**: A Universal X-Channel Speech Encoder for Ad-Hoc Microphone Array Speech Processing," in *Submitted to ICASSP*, 2024. (JHU, Tencent) [[Paper](https://arxiv.org/abs/2310.16367)]
 - "Channel-Combination Algorithms for Robust Distant Voice Activity and Overlapped Speech Detection," in *IEEE/ACM TASLP,* 2024. [[Paper](https://arxiv.org/abs/2402.08312)]
 - "A Spatial Long-Term Iterative Mask Estimation Approach for Multi-Channel Speaker Diarization and Speech Recognition," in *Proc. ICASSP*, 2024. (USTC) [Paper (Not yet)]
+- **MC-EEND**: "Multi-channel Conversational Speaker Separation via Neural Diarization," in *Submitted to IEEE/ACM TASLP,* 2024. (OSU) [[Paper](https://arxiv.org/abs/2311.08630)]
 ---
 ## Online
 - "Supervised online diarization with sample mean loss for multi-domain data", in *Proc. ICASSP*, 2020 [[Paper](https://arxiv.org/abs/1911.01266)] [[Code](https://github.com/DonkeyShot21/uis-rnn-sml)]
@@ -290,6 +292,7 @@ If you discover any unnoticed documents, please open issues or pull requests (re
 ---
 ## Dataset
 - **Voxconverse**: "Spot the conversation: speaker diarisation in the wild", in *Proc. Interspeech*, 2020. (VGG, Naver) [[Paper](https://arxiv.org/abs/2007.01216)] [[Code](https://github.com/joonson/voxconverse)] [[Dataset](https://www.robots.ox.ac.uk/~vgg/data/voxconverse/)]
+- **MSDWild**: Multi-modal Speaker Diarization Dataset in the Wild, in *Proc. Interspeech,* 2020. [[Paper](https://www.isca-speech.org/archive/interspeech_2022/liu22t_interspeech.html)] [[Dataset](https://github.com/X-LANCE/MSDWILD)]
 - "LibriMix: An Open-Source Dataset for Generalizable Speech Separation," in *arXiv:2005.11262*, 2020. [[Paper](https://arxiv.org/abs/2005.11262)] [[Code](https://github.com/JorisCos/LibriMix)]
 - **Ego4D**: " Around the World in 3,000 Hours of Egocentric Video," in *Proc. CVPR*, 2022. (Meta) [[Paper](https://arxiv.org/abs/2110.07058)] [[Code](https://github.com/EGO4D/audio-visual)] [[Page](https://ego4d-data.org/docs/benchmarks/av-diarization/)]
 - **AliMeeting**: "Summary On The ICASSP 2022 Multi-Channel Multi-Party Meeting Transcription Grand Challenge," in *Proc. ICASSP,* 2022. (Alibaba) [[Paper](https://arxiv.org/abs/2202.03647)] [[Dataset](https://www.openslr.org/119)] [[Code](https://github.com/yufan-aslp/AliMeeting)]
