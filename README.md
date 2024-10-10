@@ -77,9 +77,10 @@ If you discover any unnoticed documents, please open issues or pull requests (re
 - **AED-EEND-EE**: "Attention-based Encoder-Decoder End-to-End Neural Diarization with Embedding Enhancer," in *IEEE/ACM TASLP*, 2024. (SJTU) [[Paper](https://arxiv.org/abs/2309.06672)] [[Review](https://www.notion.so/AED-EEND-EE-903d475a735c46218667a25ed45d4e74)]
 - "**DiaPer**: End-to-End Neural Diarization with Perceiver-Based Attractors," in *IEEE/ACM TASLP,* 2024. (BUT) [[Paper](https://arxiv.org/abs/2312.04324)] [[Code](https://github.com/BUTSpeechFIT/DiaPer)] [[Review](https://puzzle-deal-923.notion.site/2024-DiaPer-Submitted-TASLP-83fbbd4b8e8645d7a1fe7a08069334ea?pvs=4)]
 - "**EEND-DEMUX**: End-to-End Neural Speaker Diarization via Demultiplexed Speaker Embeddings," in *Submitted to IEEE SPL,* 2024. (SNU) [[Paper](https://arxiv.org/abs/2312.06065)] [[Review](https://puzzle-deal-923.notion.site/2024-EEND-DEMUX-Submitted-SPL-4bfa79521cc74a78a14e5fc148a7c9c1?pvs=4)]
-- "**EEND-M2F**: Masked-attention mask transformers for speaker diarization," in *arXiv:2401.12600,* 2024. (Fano Labs) [[Paper](https://arxiv.org/abs/2401.12600)] [[Review](https://puzzle-deal-923.notion.site/2024-EEND-M2F-arXiv-8bb1ec11cc2c463cab372cd6cec10318?pvs=4)]
+- "**EEND-M2F**: Masked-attention mask transformers for speaker diarization," in *Proc. Interspeech,* 2024. (Fano Labs) [[arXiv](https://arxiv.org/abs/2401.12600)] [[Pub.](https://www.isca-archive.org/interspeech_2024/harkonen24_interspeech.html)] [[Review](https://puzzle-deal-923.notion.site/2024-EEND-M2F-arXiv-8bb1ec11cc2c463cab372cd6cec10318?pvs=4)]
 - **EEND-NAA (2)**: "End-to-End Neural Speaker Diarization with Non-Autoregressive Attractors", in *IEEE/ACM TASLP*, 2024. (JHU) [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10629182)]
 - "From Modular to End-to-End Speaker Diarization," *Ph.D. thesis*, 2024. (BUT) [[Paper](https://arxiv.org/abs/2407.08752)]
+- "Mamba-based Segmentation Model for Speaker Diarization," *Submitted to ICASSP,* 2025. (NTT) [[arXiv](https://arxiv.org/abs/2410.06459)] [[Code](https://github.com/nttcslab-sp/mamba-diarization)]
 
 ### Related Speaker information
   - "Do End-to-End Neural Diarization Attractors Need to Encode Speaker Characteristic Information?," in *Proc. Odyssey*, 2024. [[Paper](https://www.isca-archive.org/odyssey_2024/zhang24_odyssey.html)]
@@ -200,8 +201,9 @@ If you discover any unnoticed documents, please open issues or pull requests (re
 - "Build a SRE Challenge System: Lessons from VoxSRC 2022 and CNSRC 2022," in *Proc. Interspeech*, 2023. (SJTU) [[Paper](https://www.isca-speech.org/archive/interspeech_2023/chen23m_interspeech.html)]
 - **RecXi** "Disentangling Voice and Content with Self-Supervision for Speaker Recognition," in *Proc. NeurIPS,* 2023. (A*STAR) [[Paper](https://arxiv.org/abs/2310.01128)]
 - "**ECAPA2**: A Hybrid Neural Network Architecture and Training Strategy for Robust Speaker Embeddings," in *Proc. ASRU,* 2023. (IDLab) [[Paper](https://arxiv.org/abs/2401.08342)] [[Model](https://huggingface.co/Jenthe/ECAPA2)] [[Review](https://puzzle-deal-923.notion.site/2023-ECAPA2-ASRU-962943495f2348dab3872e3481bc08a6?pvs=4)]
-- "Rethinking Session Variability: Leveraging Session Embeddings for Session Robustness in Speaker Verification," in *ICASSP*, 2024. (Naver) [[Paper](https://arxiv.org/abs/2309.14741)]
-- "Leveraging In-the-Wild Data for Effective Self-Supervised Pretraining in Speaker Recognition," in *ICASSP*, 2024. (CUHK) [[Paper](https://arxiv.org/abs/2309.11730)]
+- "Rethinking Session Variability: Leveraging Session Embeddings for Session Robustness in Speaker Verification," in *Proc. ICASSP*, 2024. (Naver) [[Paper](https://arxiv.org/abs/2309.14741)]
+- "Leveraging In-the-Wild Data for Effective Self-Supervised Pretraining in Speaker Recognition," in *Proc. ICASSP*, 2024. (CUHK) [[Paper](https://arxiv.org/abs/2309.11730)]
+- "Disentangled Representation Learning for Environment-agnostic Speaker Recognition," in *Proc. Interspeech,* 2024. (KAIST) [[arXiv](https://arxiv.org/abs/2406.14559)] [[Pub.](https://www.isca-archive.org/interspeech_2024/nam24b_interspeech.html)] [[Code](https://github.com/kaistmm/voxceleb-disentangler)]
 
 ## Scoring
 - **LSTM scoring**: "LSTM based Similarity Measurement with Spectral Clustering for Speaker Diarization", in *Proc. Interspeech*, 2019. (DKU) [[Paper](https://arxiv.org/abs/1907.10393)]
@@ -260,6 +262,8 @@ If you discover any unnoticed documents, please open issues or pull requests (re
   - "Speaker Mask Transformer for Multi-talker Overlapped Speech Recognition," in *arXiv:2312.10959*, 2024. (NICT) [[Paper](https://arxiv.org/abs/2312.10959)]
   - "On Speaker Attribution with SURT," in *Proc. Odyssey,* 2024. (JHU) [[Paper](https://www.isca-archive.org/odyssey_2024/raj24_odyssey.html)]
   - "Improving Speaker Assignment in Speaker-Attributed ASR for Real Meeting Applications," in *Proc. Odyssey,* 2024. (CNRS) [[Paper](https://www.isca-archive.org/odyssey_2024/cui24_odyssey.html)]
+  ### Target Speaker ASR
+  - "Target Speaker ASR with Whisper," in *Submitted to ICASSP,* 2025. (BUT) [[Paper](https://arxiv.org/abs/2409.09543)] [[Code(Not yet)](https://github.com/BUTSpeechFIT/TS-ASR-Whisper)]
 ## Language Diarization
 - "End-to-End Spoken Language Diarization with Wav2vec Embeddings", in *Proc. Interspeech*, 2023. [[Paper](https://www.isca-speech.org/archive/interspeech_2023/mishra23_interspeech.html)] [[Code](https://github.com/jagabandhumishra/W2V-E2E-Language-Diarization)]
 - "Multi-resolution Approach to Identification of Spoken Languages and To Improve Overall Language Diarization System Using Whisper Model," in *Proc. Interspeech*, 2023. [[Paper](https://www.isca-speech.org/archive/interspeech_2023/vachhani23_interspeech.html)]
@@ -338,11 +342,14 @@ If you discover any unnoticed documents, please open issues or pull requests (re
 - "A Comparative Analysis of Speaker Diarization Models: Creating a Dataset for German Dialectal Speech," in *Proc. ACL,* 2024. [[Paper](https://aclanthology.org/2024.fieldmatters-1.6/)]
 - "Conversations in the wild: Data collection, automatic generation and evaluation," in *Computer Speech & Language,* 2025. [[Paper](https://www.sciencedirect.com/science/article/pii/S0885230824000822)]
 - "ALLIES: A Speech Corpus for Segmentation, Speaker Diarization, Speech Recognition and Speaker Change Detection," in *Proc. ACL*, 2024. (LIUM) [[Paper](https://aclanthology.org/2024.lrec-main.67/)]""
-
+---
+## Tools
+- "Gryannote open-source speaker diarization labeling tool," in *Proc. Interspeech (Show and Tell),* 2024. (IRIT) [[Pub.](https://www.isca-archive.org/interspeech_2024/pages24_interspeech.html)] [[Code](https://github.com/clement-pages/gryannote)]
 ---
 ## Self-Supervised
 - “Self-supervised Speaker Diarization”, in *Proc. Interspeech,* 2022. [[Paper](https://arxiv.org/abs/2204.04166)]
 - **CSDA**: "Continual Self-Supervised Domain Adaptation for End-to-End Speaker Diarization", in *Proc. IEEE SLT*, 2022. (CNRS) [[Paper](https://ieeexplore.ieee.org/document/10023195)] [[Code](https://github.com/juanmc2005/CSDA)]
+- **DiarZen**: "Leveraging Self-Supervised Learning for Speaker Diarization," in *Submitted to ICASSP," 2025. (BUT) [[Paper](https://arxiv.org/abs/2409.09408)] [[Code](https://github.com/BUTSpeechFIT/DiariZen)]
 
 ## Semi-Supervised
 - "Active Learning Based Constrained Clustering For Speaker Diarization", in *IEEE/ACM TASLP,* 2017. (UT) [[Paper](https://ieeexplore.ieee.org/abstract/document/8030331)]
