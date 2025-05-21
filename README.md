@@ -143,6 +143,7 @@ If you discover any unnoticed documents, please open issues or pull requests (re
 - "A Spatial Long-Term Iterative Mask Estimation Approach for Multi-Channel Speaker Diarization and Speech Recognition," in *Proc. ICASSP*, 2024. (USTC) [[Paper](https://ieeexplore.ieee.org/document/10446168)]
 - **MC-EEND**: "Multi-channel Conversational Speaker Separation via Neural Diarization," in *IEEE/ACM TASLP,* 2024. (OSU) [[Paper](https://arxiv.org/abs/2311.08630)]
 - "**ASoBO**: Attentive Beamformer Selection for Distant Speaker Diarization in Meetings," in *Proc. Interspeech*, 2024. (LIUM) [[Paper](https://arxiv.org/abs/2406.03251)]
+- "Multi-channel Speaker Counting for EEND-VC-based Speaker Diarization on Multi-domain Conversation," in *Proc. ICASSP,* 2025. (NTT) [[Pub.](https://ieeexplore.ieee.org/abstract/document/10888681)] [[Review](https://dongkeon.notion.site/Multi-channel-Speaker-Counting-1faeac879496809b9075e79580eb9a6e?pvs=4)]
 
 ---
 ## Online
@@ -358,7 +359,7 @@ If you discover any unnoticed documents, please open issues or pull requests (re
 ## Self-Supervised
 - “Self-supervised Speaker Diarization”, in *Proc. Interspeech,* 2022. [[Paper](https://arxiv.org/abs/2204.04166)]
 - **CSDA**: "Continual Self-Supervised Domain Adaptation for End-to-End Speaker Diarization", in *Proc. IEEE SLT*, 2022. (CNRS) [[Paper](https://ieeexplore.ieee.org/document/10023195)] [[Code](https://github.com/juanmc2005/CSDA)]
-- **DiarZen**: "Leveraging Self-Supervised Learning for Speaker Diarization," in *Submitted to ICASSP," 2025. (BUT) [[Paper](https://arxiv.org/abs/2409.09408)] [[Code](https://github.com/BUTSpeechFIT/DiariZen)]
+- **DiariZen**: "Leveraging Self-Supervised Learning for Speaker Diarization," in *Proc. ICASSP," 2025. (BUT) [[Paper](https://arxiv.org/abs/2409.09408)] [[Pub.](https://ieeexplore.ieee.org/abstract/document/10889475)] [[Code](https://github.com/BUTSpeechFIT/DiariZen)] [[Review](https://dongkeon.notion.site/DiarZen-1f8eac87949680439b1ce4aeeb211fa9?pvs=4)]
 
 ## Semi-Supervised
 - "Active Learning Based Constrained Clustering For Speaker Diarization", in *IEEE/ACM TASLP,* 2017. (UT) [[Paper](https://ieeexplore.ieee.org/abstract/document/8030331)]
