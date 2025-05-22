@@ -80,7 +80,7 @@ If you discover any unnoticed documents, please open issues or pull requests (re
 - "**EEND-M2F**: Masked-attention mask transformers for speaker diarization," in *Proc. Interspeech,* 2024. (Fano Labs) [[arXiv](https://arxiv.org/abs/2401.12600)] [[Pub.](https://www.isca-archive.org/interspeech_2024/harkonen24_interspeech.html)] [[Review](https://dongkeon.notion.site/2024-EEND-M2F-arXiv-8bb1ec11cc2c463cab372cd6cec10318?pvs=4)]
 - **EEND-NAA (2)**: "End-to-End Neural Speaker Diarization with Non-Autoregressive Attractors", in *IEEE/ACM TASLP*, 2024. (JHU) [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10629182)] [[Review](https://dongkeon.notion.site/EEND-NAA-13beac879496807eb0bced8de53e91c1?pvs=4)]
 - "From Modular to End-to-End Speaker Diarization," *Ph.D. thesis*, 2024. (BUT) [[Paper](https://arxiv.org/abs/2407.08752)]
-- "On the calibration of powerset speaker diarization models,"  in *Proc. Interspeech,* 2024. (IRIT) [[Paper](https://www.isca-archive.org/interspeech_2024/plaquet24_interspeech.html)] [[Code](https://github.com/FrenchKrab/IS2024-powerset-calibration)]
+- "On the calibration of powerset speaker diarization models,"  in *Proc. Interspeech,* 2024. (IRIT) [[arXiv](https://arxiv.org/abs/2409.15885)] [[Pub.](https://www.isca-archive.org/interspeech_2024/plaquet24_interspeech.html)] [[Code](https://github.com/FrenchKrab/IS2024-powerset-calibration)] [[Review](https://dongkeon.notion.site/PSE-calibration-1faeac8794968000b5bfd6c900638bba?pvs=4)]
 - **Local-global EEND**: "Speakers Unembedded: Embedding-free Approach to Long-form Neural Diarization," in *Proc. Interspeech,* 2024. (Amazon) [[Paper](https://www.isca-archive.org/interspeech_2024/li24x_interspeech.html)] [[Review](https://dongkeon.notion.site/Local-global-EEND-2b0a3eb900644c31baf0756da0ca4b5d?pvs=4)]
 - "Mamba-based Segmentation Model for Speaker Diarization," *Submitted to ICASSP,* 2025. (NTT) [[arXiv](https://arxiv.org/abs/2410.06459)] [[Code](https://github.com/nttcslab-sp/mamba-diarization)]
 
@@ -99,7 +99,7 @@ If you discover any unnoticed documents, please open issues or pull requests (re
   - "Enhancing low-latency speaker diarization with spatial dictionary learning," in *Proc. ICASSP*, 2024.  (NTU) [[Paper](https://ieeexplore.ieee.org/document/10446666)] [[Poster](https://sigport.org/sites/default/files/docs/ENHANCING%20LOW-LATENCY%20SPEAKER%20DIARIZATION%20WITH%20SPATIAL%20DICTIONARY%20LEARNING.pdf)]
   - "Improving Neural Diarization through Speaker Attribute Attractors and Local Dependency Modeling," in *Proc. ICASSP*, 2024. (OSU) [[Paper](https://ieeexplore.ieee.org/document/10446213)]
 ### Post-Processing
-  - **EENDasP**: "End-to-End Speaker Diarization as Post-Processing", in *Proc. ICASSP*, 2021. (Hitachi) [[Paper](https://arxiv.org/abs/2012.10055)] [[Review](https://velog.io/@fbdp1202/EEND-asp-%EB%A6%AC%EB%B7%B0-End-to-End-Speaker-Diarization-as-Post-Processing) [[Code](https://github.com/DongKeon/EENDasP)]
+  - **EENDasP**: "End-to-End Speaker Diarization as Post-Processing", in *Proc. ICASSP*, 2021. (Hitachi) [[Paper](https://arxiv.org/abs/2012.10055)] [[Review](https://velog.io/@fbdp1202/EEND-asp-%EB%A6%AC%EB%B7%B0-End-to-End-Speaker-Diarization-as-Post-Processing)] [[Code](https://github.com/DongKeon/EENDasP)]
   - **Dover-Lap**: "DOVER-Lap: A Method for Combining Overlap-aware Diarization Outputs", in *Proc. IEEE SLT*, 2021. (JHU) [[Paper](https://arxiv.org/abs/2011.01997)] [[Review](https://velog.io/@fbdp1202/Dover-lap-%EB%A6%AC%EB%B7%B0-A-method-for-combining-overlap-aware-diarization-outputs)] [[Code](https://github.com/desh2608/dover-lap)]
   - "**DiaCorrect**: Error Correction Back-end For Speaker Diarization," in *Proc. ICASSP*, 2024. (BUT) [[Paper](https://arxiv.org/abs/2309.08377)] [[Code](https://github.com/BUTSpeechFIT/diacorrect)]
 ---
@@ -359,7 +359,7 @@ If you discover any unnoticed documents, please open issues or pull requests (re
 ## Self-Supervised
 - “Self-supervised Speaker Diarization”, in *Proc. Interspeech,* 2022. [[Paper](https://arxiv.org/abs/2204.04166)]
 - **CSDA**: "Continual Self-Supervised Domain Adaptation for End-to-End Speaker Diarization", in *Proc. IEEE SLT*, 2022. (CNRS) [[Paper](https://ieeexplore.ieee.org/document/10023195)] [[Code](https://github.com/juanmc2005/CSDA)]
-- **DiariZen**: "Leveraging Self-Supervised Learning for Speaker Diarization," in *Proc. ICASSP," 2025. (BUT) [[Paper](https://arxiv.org/abs/2409.09408)] [[Pub.](https://ieeexplore.ieee.org/abstract/document/10889475)] [[Code](https://github.com/BUTSpeechFIT/DiariZen)] [[Review](https://dongkeon.notion.site/DiarZen-1f8eac87949680439b1ce4aeeb211fa9?pvs=4)]
+- **DiariZen**: "Leveraging Self-Supervised Learning for Speaker Diarization," in *Proc. ICASSP,*" 2025. (BUT) [[Paper](https://arxiv.org/abs/2409.09408)] [[Pub.](https://ieeexplore.ieee.org/abstract/document/10889475)] [[Code](https://github.com/BUTSpeechFIT/DiariZen)] [[Review](https://dongkeon.notion.site/DiarZen-1f8eac87949680439b1ce4aeeb211fa9?pvs=4)]
 
 ## Semi-Supervised
 - "Active Learning Based Constrained Clustering For Speaker Diarization", in *IEEE/ACM TASLP,* 2017. (UT) [[Paper](https://ieeexplore.ieee.org/abstract/document/8030331)]
