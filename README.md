@@ -1,32 +1,56 @@
 # 🎤 Awesome Speaker Diarization [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> 325+ papers · 61 code repos · Updated Mar 2026
->
-> 📄 Paper · 💻 Code · 📝 Review · 🎬 Video/Demo · 📊 Slides · 🔗 Other
+<div align="center">
 
+[![Papers](https://img.shields.io/badge/Papers-325+-4169E1?style=flat-square&labelColor=1a1a2e&logo=bookstack&logoColor=white)](#)
+[![Code](https://img.shields.io/badge/Code-61_repos-2E8B57?style=flat-square&labelColor=1a1a2e&logo=github&logoColor=white)](#)
+[![Updated](https://img.shields.io/badge/Updated-Mar_2026-FF8C00?style=flat-square&labelColor=1a1a2e)](#)
 
-📚 [EEND](#eend) · 🎯 [TS-VAD](#ts-vad) · 🔗 [Clustering](#clustering) · ⚡ [Online](#online) · 🗣️ [ASR](#asr) · 👁️ [Vision](#vision) · 📊 [Dataset](#dataset) · 🏆 [Challenge](#challenge)
+<sub>📄 Paper · 💻 Code · 📝 Review · 🎬 Video/Demo · 📊 Slides · 🔗 Other</sub>
+
+</div>
 
 ---
 
-## Table of Contents
+**🧠 Core Methods**
 
-**Core Diarization Methods**
-- [📚 EEND (End-to-End)](#eend) (52) · [🎯 TS-VAD](#ts-vad) (17) · [🔗 Clustering](#clustering) (21) · [🧩 Embedding](#embedding) (14) · [📐 VBx & HMM](#vbx-hmm) (24) · [📊 Scoring](#scoring) (3)
+[![EEND](https://img.shields.io/badge/📚_EEND-52-4169E1?style=flat-square&labelColor=1a1a2e)](#eend)
+[![TS-VAD](https://img.shields.io/badge/🎯_TS--VAD-17-4169E1?style=flat-square&labelColor=1a1a2e)](#ts-vad)
+[![Clustering](https://img.shields.io/badge/🔗_Clustering-21-4169E1?style=flat-square&labelColor=1a1a2e)](#clustering)
+[![Embedding](https://img.shields.io/badge/🧩_Embedding-14-4169E1?style=flat-square&labelColor=1a1a2e)](#embedding)
+[![Self-Supervised](https://img.shields.io/badge/🔄_Self--Supervised-5-4169E1?style=flat-square&labelColor=1a1a2e)](#self-supervised)
 
-**Architecture Extensions**
-- [⚡ Online](#online) (16) · [📡 Multi-Channel](#multi-channel) (14) · [🔀 Separation / Extraction](#separation) (12)
+**🔌 Extensions**
 
-**Cross-Modal & Integration**
-- [🗣️ With ASR](#asr) (27) · [👁️ With Vision](#vision) (21) · [💬 With NLP / LLM](#nlp-llm) (10) · [🌐 Language](#language) (2) · [😊 Emotion](#emotion) (3)
+[![Online](https://img.shields.io/badge/⚡_Online-16-2E8B57?style=flat-square&labelColor=1a1a2e)](#online)
+[![Multi-Channel](https://img.shields.io/badge/📡_Multi--Channel-14-2E8B57?style=flat-square&labelColor=1a1a2e)](#multi-channel)
+[![Sep/TSE](https://img.shields.io/badge/🔀_Sep/TSE-12-2E8B57?style=flat-square&labelColor=1a1a2e)](#separation)
 
-**Related Tasks**
-- [📈 VAD / OSD / SCD](#vad-osd-scd) (10) · [🔊 Speaker Recognition](#speaker-rec) (7) · [🎙️ Personal VAD](#personal-vad) (2) · [🛡️ Spoofing](#spoofing) · [🔉 TTS](#tts) · [👶 Child-Adult](#child-adult) (2)
+**🌐 Cross-Modal**
 
-**Resources & Training**
-- [📊 Dataset](#dataset) (11) · [🛠️ Tools](#tools) · [📝 Reviews](#reviews) (3) · [📏 Measurement](#measurement) (3) · [🔄 Self-Supervised](#self-supervised) (5) · [🔃 Semi-Supervised](#semi-supervised)
+[![ASR](https://img.shields.io/badge/🗣️_ASR-27-FF8C00?style=flat-square&labelColor=1a1a2e)](#asr)
+[![Vision](https://img.shields.io/badge/👁️_Vision-21-FF8C00?style=flat-square&labelColor=1a1a2e)](#vision)
+[![NLP/LLM](https://img.shields.io/badge/💬_NLP/LLM-10-FF8C00?style=flat-square&labelColor=1a1a2e)](#nlp-llm)
+[![Emotion](https://img.shields.io/badge/😊_Emotion-3-FF8C00?style=flat-square&labelColor=1a1a2e)](#emotion)
 
-**[🏆 Challenge](#challenge)** — VoxSRC · M2MeT · MISP · DIHARD · DISPLACE · CHiME
+**🔗 Related**
+
+[![VAD/OSD/SCD](https://img.shields.io/badge/📈_VAD/OSD/SCD-10-708090?style=flat-square&labelColor=1a1a2e)](#vad-osd-scd)
+[![Speaker Rec](https://img.shields.io/badge/🔊_Speaker_Rec-7-708090?style=flat-square&labelColor=1a1a2e)](#speaker-rec)
+[![Personal VAD](https://img.shields.io/badge/🎙️_Personal_VAD-2-708090?style=flat-square&labelColor=1a1a2e)](#personal-vad)
+[![Spoofing](https://img.shields.io/badge/🛡️_Spoofing-1-708090?style=flat-square&labelColor=1a1a2e)](#spoofing)
+[![TTS](https://img.shields.io/badge/🔉_TTS-2-708090?style=flat-square&labelColor=1a1a2e)](#tts)
+[![Child-Adult](https://img.shields.io/badge/👶_Child--Adult-2-708090?style=flat-square&labelColor=1a1a2e)](#child-adult)
+
+**📦 Resources**
+
+[![Dataset](https://img.shields.io/badge/📊_Dataset-11-9370DB?style=flat-square&labelColor=1a1a2e)](#dataset)
+[![Tools](https://img.shields.io/badge/🛠️_Tools-1-9370DB?style=flat-square&labelColor=1a1a2e)](#tools)
+[![Reviews](https://img.shields.io/badge/📝_Reviews-3-9370DB?style=flat-square&labelColor=1a1a2e)](#reviews)
+[![Measurement](https://img.shields.io/badge/📏_Measurement-3-9370DB?style=flat-square&labelColor=1a1a2e)](#measurement)
+[![Scoring](https://img.shields.io/badge/📊_Scoring-3-9370DB?style=flat-square&labelColor=1a1a2e)](#scoring)
+
+[![Challenge](https://img.shields.io/badge/🏆_Challenge-VoxSRC_·_M2MeT_·_MISP_·_DIHARD_·_DISPLACE_·_CHiME-DC143C?style=flat-square&labelColor=1a1a2e)](#challenge)
 
 
 ---
@@ -482,6 +506,77 @@
 </details>
 
 
+<a id="vbx-hmm"></a>
+
+### 📐 Variational Bayes and HMM — 24 papers
+
+<details open>
+<summary><b>🔥 2023-2024 (3 papers)</b></summary>
+
+  - **DVBx**: "Discriminative Training of VBx Diarization", in *Proc. ICASSP*, 2024. (BUT) [📄](https://arxiv.org/abs/2310.02732) [💻](https://github.com/BUTSpeechFIT/DVBx)
+  - **MS-VBx**: "Multi-Stream Extension of Variational Bayesian HMM Clustering (MS-VBx) for Combined End-to-End and Vector Clustering-based Diarization", in *Proc. Interspeech*, 2023. (NTT) [📄](https://arxiv.org/abs/2305.13580)
+  - "Generalized domain adaptation framework for parametric back-end in speaker recognition", in *arXiv:2305.15567*, 2023. [📄](https://arxiv.org/abs/2305.15567)
+
+</details>
+
+<details>
+<summary><b>2021-2022 (4 papers)</b></summary>
+
+  - "Bayesian HMM clustering of x-vector sequences (VBx) in speaker diarization: theory, implementation and analysis on standard tasks", in *Computer Speech & Language*, 2022. (BUT) [📄](https://arxiv.org/abs/2012.14952)
+  - **DCA-PLDA** "A Speaker Verification Backend with Robust Performance across Conditions”, in *Computer & Language*, 2022. [📄](https://arxiv.org/pdf/2102.01760.pdf) [💻](https://github.com/luferrer/DCA-PLDA)
+  - "Analysis of the but Diarization System for **Voxconverse Challenge**", in *Proc. ICASSP*, 2021. (BUT) [📄](https://ieeexplore.ieee.org/document/9414315) [💻](https://github.com/BUTSpeechFIT/VBx/tree/v1.1_VoxConverse2020)
+  - "Discriminatively trained probabilistic linear discriminant analysis for speaker verification", in *Proc. ICASSP*, 2021. [📄](https://ieeexplore.ieee.org/document/5947437)
+
+</details>
+
+<details>
+<summary><b>2019-2020 (4 papers)</b></summary>
+
+  - "Optimizing Bayesian Hmm Based X-Vector Clustering for **the Second Dihard Speech Diarization Challenge**", in *Proc. ICASSP*, 2020. (BUT) [📄](https://ieeexplore.ieee.org/document/9053982)
+  - “Analysis of Speaker Diarization Based on Bayesian HMM With Eigenvoice Priors”, *IEEE/ACM TASLP,* 2019. (BUT) [📄](https://ieeexplore.ieee.org/document/8910412)
+  - "BUT System Description for **DIHARD Speech Diarization Challenge 2019**", in *arXiv:1910.08847*, 2019. (BUT) [📄](https://arxiv.org/abs/1910.08847)
+  - "Bayesian HMM Based x-Vector Clustering for Speaker Diarization", in *Proc. Interspeech*, 2019. (BUT) [📄](https://www.isca-speech.org/archive_v0/Interspeech_2019/abstracts/2813.html)
+
+</details>
+
+<details>
+<summary><b>2018 (5 papers)</b></summary>
+
+  - "Speaker Diarization based on Bayesian HMM with Eigenvoice Priors", in *Proc. Odyssey*, 2018. (BUT) [📄](https://www.isca-speech.org/archive/odyssey_2018/diez18_odyssey.html)
+  - "VB-HMM Speaker Diarization with Enhanced and Refined Segment Representation", in *Proc. Odyssey*, 2018. (Tsinghua) [📄](https://www.isca-speech.org/archive_v0/Odyssey_2018/abstracts/53.html)
+  - "Diarization is hard: some experiences and lessons learned for the JHU team in **the inaugural DIHARD challenge**", in *Proc. Interspeech*, 2018. [📄](https://www.isca-speech.org/archive/interspeech_2018/sell18_interspeech.html)
+  - "The speaker partitioning problem", in *Proc. Odyssey*, 2018. [📄](https://www.isca-speech.org/archive_open/odyssey_2010/od10_034.html)
+  - "Estimation of the Number of Speakers with Variational Bayesian PLDA in **the DIHARD Diarization Challenge**", in *Proc. Interspeech*, 2018. [📄](https://www.isca-speech.org/archive/interspeech_2018/vinals18_interspeech.html)
+
+</details>
+
+<details>
+<summary><b>2015-2017 (3 papers)</b></summary>
+
+  - "Domain Adaptation of PLDA Models in Broadcast Diarization by Means of Unsupervised Speaker Clustering, in *Proc. Interspeech*, 2017. [📄](https://www.isca-speech.org/archive/interspeech_2017/vinals17_interspeech.html)
+  - "Iterative PLDA Adaptation for Speaker Diarization", in *Proc. Interspeech*, 2016. [📄](https://www.isca-speech.org/archive/interspeech_2016/lan16_interspeech.html)
+  - "Diarization resegmentation in the factor analysis subspace", in *Proc. ICASSP*, 2015. [📄](https://ieeexplore.ieee.org/abstract/document/7178881)
+
+</details>
+
+<details>
+<summary><b>2011-2014 (3 papers)</b></summary>
+
+  - "Speaker diarization with plda i-vector scoring and unsupervised calibration", in *Proc. IEEE SLT*, 2014. [📄](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7078610)
+  - "Unsupervised Methods for Speaker Diarization: An Integrated and Iterative Approach", *IEEE/ACM TASLP,* 2013. [📄](https://ieeexplore.ieee.org/abstract/document/6518171/)
+  - "Analysis of i-vector length normalization in speaker recognition systems", in *Proc. Interspeech*, 2011. [📄](https://www.isca-speech.org/archive/interspeech_2011/garciaromero11_interspeech.html)
+
+</details>
+
+<details>
+<summary><b>2005-2008 (2 papers)</b></summary>
+
+  - "Bayesian analysis of speaker diarization with eigenvoice priors", in *CRIM, Montreal, Technical Report*, 2008. [📄](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=36db5cc928d01b13246582d71bde84fabbd24a19)
+  - "Variational Bayesian methods for audio indexing", in *Proc. ICMI-MLMI*, 2005. [📄](https://www.eurecom.fr/fr/publication/1739/download/mm-valefa-050923.pdf)
+
+</details>
+
+
 ---
 
 <a id="embedding"></a>
@@ -591,79 +686,6 @@
 
 ---
 
-<a id="vbx-hmm"></a>
-
-## 📐 Variational Bayes and HMM — 24 papers
-
-<details open>
-<summary><b>🔥 2023-2024 (3 papers)</b></summary>
-
-  - **DVBx**: "Discriminative Training of VBx Diarization", in *Proc. ICASSP*, 2024. (BUT) [📄](https://arxiv.org/abs/2310.02732) [💻](https://github.com/BUTSpeechFIT/DVBx)
-  - **MS-VBx**: "Multi-Stream Extension of Variational Bayesian HMM Clustering (MS-VBx) for Combined End-to-End and Vector Clustering-based Diarization", in *Proc. Interspeech*, 2023. (NTT) [📄](https://arxiv.org/abs/2305.13580)
-  - "Generalized domain adaptation framework for parametric back-end in speaker recognition", in *arXiv:2305.15567*, 2023. [📄](https://arxiv.org/abs/2305.15567)
-
-</details>
-
-<details>
-<summary><b>2021-2022 (4 papers)</b></summary>
-
-  - "Bayesian HMM clustering of x-vector sequences (VBx) in speaker diarization: theory, implementation and analysis on standard tasks", in *Computer Speech & Language*, 2022. (BUT) [📄](https://arxiv.org/abs/2012.14952)
-  - **DCA-PLDA** "A Speaker Verification Backend with Robust Performance across Conditions”, in *Computer & Language*, 2022. [📄](https://arxiv.org/pdf/2102.01760.pdf) [💻](https://github.com/luferrer/DCA-PLDA)
-  - "Analysis of the but Diarization System for **Voxconverse Challenge**", in *Proc. ICASSP*, 2021. (BUT) [📄](https://ieeexplore.ieee.org/document/9414315) [💻](https://github.com/BUTSpeechFIT/VBx/tree/v1.1_VoxConverse2020)
-  - "Discriminatively trained probabilistic linear discriminant analysis for speaker verification", in *Proc. ICASSP*, 2021. [📄](https://ieeexplore.ieee.org/document/5947437)
-
-</details>
-
-<details>
-<summary><b>2019-2020 (4 papers)</b></summary>
-
-  - "Optimizing Bayesian Hmm Based X-Vector Clustering for **the Second Dihard Speech Diarization Challenge**", in *Proc. ICASSP*, 2020. (BUT) [📄](https://ieeexplore.ieee.org/document/9053982)
-  - “Analysis of Speaker Diarization Based on Bayesian HMM With Eigenvoice Priors”, *IEEE/ACM TASLP,* 2019. (BUT) [📄](https://ieeexplore.ieee.org/document/8910412)
-  - "BUT System Description for **DIHARD Speech Diarization Challenge 2019**", in *arXiv:1910.08847*, 2019. (BUT) [📄](https://arxiv.org/abs/1910.08847)
-  - "Bayesian HMM Based x-Vector Clustering for Speaker Diarization", in *Proc. Interspeech*, 2019. (BUT) [📄](https://www.isca-speech.org/archive_v0/Interspeech_2019/abstracts/2813.html)
-
-</details>
-
-<details>
-<summary><b>2018 (5 papers)</b></summary>
-
-  - "Speaker Diarization based on Bayesian HMM with Eigenvoice Priors", in *Proc. Odyssey*, 2018. (BUT) [📄](https://www.isca-speech.org/archive/odyssey_2018/diez18_odyssey.html)
-  - "VB-HMM Speaker Diarization with Enhanced and Refined Segment Representation", in *Proc. Odyssey*, 2018. (Tsinghua) [📄](https://www.isca-speech.org/archive_v0/Odyssey_2018/abstracts/53.html)
-  - "Diarization is hard: some experiences and lessons learned for the JHU team in **the inaugural DIHARD challenge**", in *Proc. Interspeech*, 2018. [📄](https://www.isca-speech.org/archive/interspeech_2018/sell18_interspeech.html)
-  - "The speaker partitioning problem", in *Proc. Odyssey*, 2018. [📄](https://www.isca-speech.org/archive_open/odyssey_2010/od10_034.html)
-  - "Estimation of the Number of Speakers with Variational Bayesian PLDA in **the DIHARD Diarization Challenge**", in *Proc. Interspeech*, 2018. [📄](https://www.isca-speech.org/archive/interspeech_2018/vinals18_interspeech.html)
-
-</details>
-
-<details>
-<summary><b>2015-2017 (3 papers)</b></summary>
-
-  - "Domain Adaptation of PLDA Models in Broadcast Diarization by Means of Unsupervised Speaker Clustering, in *Proc. Interspeech*, 2017. [📄](https://www.isca-speech.org/archive/interspeech_2017/vinals17_interspeech.html)
-  - "Iterative PLDA Adaptation for Speaker Diarization", in *Proc. Interspeech*, 2016. [📄](https://www.isca-speech.org/archive/interspeech_2016/lan16_interspeech.html)
-  - "Diarization resegmentation in the factor analysis subspace", in *Proc. ICASSP*, 2015. [📄](https://ieeexplore.ieee.org/abstract/document/7178881)
-
-</details>
-
-<details>
-<summary><b>2011-2014 (3 papers)</b></summary>
-
-  - "Speaker diarization with plda i-vector scoring and unsupervised calibration", in *Proc. IEEE SLT*, 2014. [📄](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7078610)
-  - "Unsupervised Methods for Speaker Diarization: An Integrated and Iterative Approach", *IEEE/ACM TASLP,* 2013. [📄](https://ieeexplore.ieee.org/abstract/document/6518171/)
-  - "Analysis of i-vector length normalization in speaker recognition systems", in *Proc. Interspeech*, 2011. [📄](https://www.isca-speech.org/archive/interspeech_2011/garciaromero11_interspeech.html)
-
-</details>
-
-<details>
-<summary><b>2005-2008 (2 papers)</b></summary>
-
-  - "Bayesian analysis of speaker diarization with eigenvoice priors", in *CRIM, Montreal, Technical Report*, 2008. [📄](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=36db5cc928d01b13246582d71bde84fabbd24a19)
-  - "Variational Bayesian methods for audio indexing", in *Proc. ICMI-MLMI*, 2005. [📄](https://www.eurecom.fr/fr/publication/1739/download/mm-valefa-050923.pdf)
-
-</details>
-
-
----
-
 <a id="asr"></a>
 
 ## 🗣️ With ASR — 27 papers
@@ -722,24 +744,9 @@
 
 ---
 
-<a id="language"></a>
-
-## 🌐 Language Diarization — 2 papers
-
-<details open>
-<summary><b>🔥 2023 (2 papers)</b></summary>
-
-- "End-to-End Spoken Language Diarization with Wav2vec Embeddings", in *Proc. Interspeech*, 2023. [📄](https://www.isca-speech.org/archive/interspeech_2023/mishra23_interspeech.html) [💻](https://github.com/jagabandhumishra/W2V-E2E-Language-Diarization)
-- "Multi-resolution Approach to Identification of Spoken Languages and To Improve Overall Language Diarization System Using Whisper Model," in *Proc. Interspeech*, 2023. [📄](https://www.isca-speech.org/archive/interspeech_2023/vachhani23_interspeech.html)
-
-</details>
-
-
----
-
 <a id="nlp-llm"></a>
 
-## 💬 With NLP (LLM) — 10 papers
+## 💬 With NLP / LLM / Language — 12 papers
 
 <details open>
 <summary><b>🔥 2024-2025 (7 papers)</b></summary>
@@ -760,6 +767,19 @@
 - "Exploring Speaker-Related Information in Spoken Language Understanding for Better Speaker Diarization", in *Proc. ACL*, 2023. (Alibaba) [📄](https://arxiv.org/abs/2305.12927)
 - **MMSCD**, "Encoder-decoder multimodal speaker change detection", in *Proc. Interspeech*, 2023. (Naver) [📄](https://arxiv.org/abs/2306.00680)
 - "Aligning Speakers: Evaluating and Visualizing Text-based Diarization Using Efficient Multiple Sequence Alignment,", in *Proc. ICTAI*, 2023. [📄](https://arxiv.org/abs/2309.07677)
+
+</details>
+
+
+<a id="language"></a>
+
+### 🌐 Language Diarization — 2 papers
+
+<details open>
+<summary><b>🔥 2023 (2 papers)</b></summary>
+
+- "End-to-End Spoken Language Diarization with Wav2vec Embeddings", in *Proc. Interspeech*, 2023. [📄](https://www.isca-speech.org/archive/interspeech_2023/mishra23_interspeech.html) [💻](https://github.com/jagabandhumishra/W2V-E2E-Language-Diarization)
+- "Multi-resolution Approach to Identification of Spoken Languages and To Improve Overall Language Diarization System Using Whisper Model," in *Proc. Interspeech*, 2023. [📄](https://www.isca-speech.org/archive/interspeech_2023/vachhani23_interspeech.html)
 
 </details>
 
