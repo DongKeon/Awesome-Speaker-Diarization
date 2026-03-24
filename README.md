@@ -4,6 +4,7 @@
 
 [![Papers](https://img.shields.io/badge/Papers-325+-4169E1?style=flat-square&labelColor=1a1a2e&logo=bookstack&logoColor=white)](#)
 [![Code](https://img.shields.io/badge/Code-61_repos-2E8B57?style=flat-square&labelColor=1a1a2e&logo=github&logoColor=white)](#)
+[![Notion DB](https://img.shields.io/badge/Notion_DB-Awesome--SD--Papers-000000?style=flat-square&labelColor=1a1a2e&logo=notion&logoColor=white)](https://dongkeon.notion.site/32deac8794968027abbddc63a713e5e7?v=32deac879496803e96fb000cce4b4362)
 [![Updated](https://img.shields.io/badge/Updated-Mar_2026-FF8C00?style=flat-square&labelColor=1a1a2e)](#)
 
 <sub>📄 Paper · 💻 Code · 📝 Review · 🎬 Video/Demo · 📊 Slides · 🔗 Other</sub>
