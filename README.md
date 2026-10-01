@@ -3,7 +3,7 @@
 <div align="center">
 
 [![Papers](https://img.shields.io/badge/Papers-325+-4169E1?style=flat-square&labelColor=1a1a2e&logo=bookstack&logoColor=white)](#)
-[![Code](https://img.shields.io/badge/Code-61_repos-2E8B57?style=flat-square&labelColor=1a1a2e&logo=github&logoColor=white)](#)
+[![Code](https://img.shields.io/badge/Code-53_repos-2E8B57?style=flat-square&labelColor=1a1a2e&logo=github&logoColor=white)](#)
 [![Notion DB](https://img.shields.io/badge/Notion_DB-Awesome--SD--Papers-000000?style=flat-square&labelColor=1a1a2e&logo=notion&logoColor=white)](https://dongkeon.notion.site/32deac8794968027abbddc63a713e5e7?v=32deac879496803e96fb000cce4b4362)
 [![Updated](https://img.shields.io/badge/Updated-Mar_2026-FF8C00?style=flat-square&labelColor=1a1a2e)](#)
 
@@ -983,7 +983,7 @@
 <details>
 <summary><b>2019 (1 paper)</b></summary>
 
-  - **Concat-and-sum**: "End-to-end neuarl speaker diarization with permuation-free objectives", in *Proc. Interspeech*, 2019. [📄](https://arxiv.org/abs/1909.05952)
+  - **Concat-and-sum**: "End-to-End Neural Speaker Diarization with Permutation-Free Objectives", in *Proc. Interspeech*, 2019. [📄](https://arxiv.org/abs/1909.05952)
 
 </details>
 
